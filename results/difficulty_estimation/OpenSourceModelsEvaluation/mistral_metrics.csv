@@ -1,0 +1,7 @@
+dataset,context,accuracy,f1_micro,precision_micro,recall_micro
+sentences,CECRL,0.7479,0.7479,0.7479,0.7479
+ljl,CECRL,0.6368,0.6368,0.6368,0.6368
+sentences,no-context,0.6312,0.6312,0.6312,0.6312
+french-difficulty,CECRL,0.5125,0.5125,0.5125,0.5125
+ljl,no-context,0.4722,0.4722,0.4722,0.4722
+french-difficulty,no-context,0.3542,0.3542,0.3542,0.3542

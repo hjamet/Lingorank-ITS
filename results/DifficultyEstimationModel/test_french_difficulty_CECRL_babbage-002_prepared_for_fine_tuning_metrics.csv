@@ -1,0 +1,8 @@
+,0
+accuracy,0.0021
+f1_micro,0.0021
+f1_macro,0.0
+precision_micro,0.0021
+precision_macro,0.0011
+recall_micro,0.0021
+recall_macro,0.0

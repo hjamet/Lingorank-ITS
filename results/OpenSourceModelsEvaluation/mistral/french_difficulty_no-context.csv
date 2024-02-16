@@ -1,0 +1,4822 @@
+,predictions,labels,generation
+0,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dani, est-ce que tu t'es inscrite à ton concours administratif ? [/INST] 2. O"
+1,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle passe aussi à la boulagerie et elle achète une baguette toute chaude et des croissants pour le petit-déjeuner [/INST] 2/0"
+2,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai un frère et une soeur. [/INST] 0"
+3,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous rentrez à quelle heure ? [/INST] 00:"
+4,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'en pensez-vous ? [/INST] 2. Je"
+5,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je m'appelle Henri. [/INST] 01."
+6,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous avons un cours de Français. [/INST] 05:"
+7,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous aimez ce film ? [/INST] 0"
+8,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On fait réparer ses chaussures [/INST] 1. On"
+9,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis le professeur Duquesnes. [/INST] 05:"
+10,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'est-ce qu'il a ton petit chat ? [/INST] 1. Je"
+11,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il trouve qu'il fait trop chaud, alors il s'est ennuyé [/INST] 2. Il"
+12,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il me reste des croissants. [/INST] 05:"
+13,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle ne travaille pas [/INST] 05:"
+14,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le restaurant est sur votre gauche [/INST] 05:"
+15,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'une s'appelle Jennifer et elle a 21 ans et l'autre s'appelle Ashley et elle a 22 ans [/INST] 1. Qu"
+16,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je mange de l'herbe [/INST] 05:"
+17,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le test de niveau en français est sur le site Internet de l'école. [/INST] 2. Je"
+18,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous parlez bien anglais. [/INST] 05:"
+19,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'école donne des cours de français. [/INST] 0"
+20,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'habite à Rouen mais je travaille à Paris [/INST] 01."
+21,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'habite à New-York. Et toi ? [/INST] 01."
+22,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Séverine est arrivée après une annonce que ma fille a faite. [/INST] 500"
+23,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Max ira à l'université l'année prochaine. [/INST] 10/"
+24,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Merci pour cette histoire et bonne année ! [/INST] 2. Mer"
+25,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Est-ce qu'il y a du pain? [/INST] 05:"
+26,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour le dessert il y a de la mousse au chocolat. [/INST] 200"
+27,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Venez ici. [/INST] 01."
+28,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il parle italien et anglais [/INST] 0"
+29,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il pleut et j'attends l'autobus [/INST] 05:"
+30,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis une fille, je suis française et j'ai treize ans [/INST] 0: Bon"
+31,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est loin de Paris ça ! [/INST] 1. C"
+32,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Moi, je suis musicien, je suis violoniste. [/INST] 1. Je"
+33,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Viens ici! [/INST] 05:"
+34,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Est-ce qu'il y a des devoirs? [/INST] 2. Est"
+35,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais il y a un problème . [/INST] 1. Qu"
+36,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Faites des groupes de trois personnes. [/INST] 0:0"
+37,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai deux voisins. [/INST] 1. J"
+38,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il vit à Paris avec ses parents et sa petite soeur Julie, âgée de 8 ans. [/INST] 1. Qu"
+39,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et bien sûr, c'est également la saison parfaite pour savourer une boisson chaude emmitouflée dans une couverture devant un bon feu de cheminée [/INST] 5. Qu"
+40,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour aller à la mairie, s'il vous plaît ? [/INST] 05:"
+41,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mon mari et moi avons deux enfants, une fille de sept ans et un garçon de trois ans. [/INST] 0"
+42,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il est bizarre ce chien. [/INST] 10:"
+43,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Parlez-moi de votre famille. [/INST] 10:"
+44,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette année Virginie est partie une semaine dans un hôtel à Arcachon avec son mari [/INST] 5/0"
+45,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vous rappelle vos rendez-vous de demain, mardi. [/INST] 20:"
+46,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils étaient là [/INST] 0:0"
+47,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vais prendre ma douche dans ma salle-de-bain. [/INST] 05:"
+48,3,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qui propose un travail de serveur ? [/INST] 3. Je"
+49,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Merci monsieur, au revoir. [/INST] 0:0"
+50,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Bonjour, c'est mon dernier jour dans cette école. [/INST] 05:"
+51,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est très difficile. [/INST] 1. Je"
+52,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai quatre pattes [/INST] 05:"
+53,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle s'appelle Folio et elle a un an. [/INST] 05:"
+54,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mon ordinateur ne fonctionne plus, je dois le changer. [/INST] 2. Je"
+55,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis dans le bus, j'arrive dans 5 minutes. [/INST] 0:0"
+56,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le bébé pleure depuis des heures, il a faim. [/INST] 1. Le"
+57,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est un spectacle magique [/INST] 2. Qu"
+58,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il y a beaucoup de désordre dans l'appartement. [/INST] 2. Je"
+59,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est parce qu'il n'aimait pas les plats de la cantine. [/INST] 2. Qu"
+60,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tous les mardis, il va à l'entraînement de football. [/INST] 1. T"
+61,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous les mangeons ensemble le samedi soir. [/INST] 1. Je"
+62,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quelle est ta chanson préférée dans le spectacle ? [/INST] 2. Qu"
+63,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ici, il fait toujours chaud. [/INST] 0"
+64,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle est rapide. [/INST] 00:"
+65,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et là en revanche, ça pourrait me servir. [/INST] 2. Le"
+66,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il ne vient pas à la fête ce soir [/INST] 05:"
+67,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un saison parfaite pour les sorcières [/INST] 5. Un"
+68,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais que fait Jules ? [/INST] 2. J"
+69,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comment allez-vous ? [/INST] 05:"
+70,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Puis-je utiliser les toilettes? [/INST] 10:"
+71,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je ne trouve pas mes clés. [/INST] 05:"
+72,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le jour de l'An correspond au 1 janvier. [/INST] 1. Le"
+73,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'est ce que vous faites dans le parc? [/INST] 1. Je"
+74,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est ici, Monsieur. [/INST] 01."
+75,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis désolé, j'ai oublié mes devoirs à la maison. [/INST] 1. Qu"
+76,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Merci beaucoup pour cette histoire. [/INST] 1. Je"
+77,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous avez 10 minutes pour faire le test. [/INST] 1. Qu"
+78,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tous les ans, Jean passe ses vacances dans un grand hôtel du Sud de la France [/INST] 5/0"
+79,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tu parles bien anglais. [/INST] 01."
+80,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je souhaiterais vous rencontrer à ce sujet. [/INST] 2. Je"
+81,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comment vas-tu ? [/INST] 05:"
+82,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle est petite. [/INST] 01."
+83,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je reste avec toi. [/INST] 01:"
+84,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tu me manques beaucoup [/INST] 01:"
+85,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Domi était très contente de découvrir ce monde magnifique. [/INST] 2. Qu"
+86,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elles m'ont promis de me faire découvrir tout Londres : nous visiterons les musées, les monuments et les parcs [/INST] 5. Je"
+87,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il joue de la guitare dans un bar. [/INST] 1. Il"
+88,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vois trois pommes de terre, mais elles ne sont pas bonnes. [/INST] 1. Je"
+89,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais aujourd'hui, il a un peu peur. [/INST] 1. Qu"
+90,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pendant les trois années d'études, je vivais déjà chez elle. [/INST] 1/2"
+91,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle partage un appartement avec deux garçons. [/INST] 1. Elle"
+92,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais où est Alice ? [/INST] 22:"
+93,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mon ami ne répond pas au téléphone. [/INST] 011"
+94,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Delphine, je t'attends au coin de la rue, devant la pharmacie [/INST] 5. Je"
+95,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est le plat préféré de Manon. [/INST] 1. C"
+96,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai eu un week-end un peu spécial. [/INST] 1 point."
+97,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Aujourd'hui, on est samedi, nous rendons visite à notre grand-mère [/INST] 0:0"
+98,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a mal à la tête à cause de la musique. [/INST] 10."
+99,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour six personnes. [/INST] 01:"
+100,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'est-ce que je vous sers, mesdemoiselles ? [/INST] 2. Qu"
+101,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le train de ma soeur arrive à 20h05 [/INST] 20h"
+102,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Est-ce que ton mari est aussi de Boston? [/INST] 2. O"
+103,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Rien d'autre. [/INST] 05:"
+104,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'est-ce que tu vas faire l'année prochaine [/INST] 2. Je"
+105,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si tu veux, tu peux arriver tôt. [/INST] 05:"
+106,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai des cours de méchanique et d'informatique. [/INST] 1. Qu"
+107,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Travaillez par groupe de deux personnes. [/INST] 1. Ch"
+108,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il est important de boire du café. [/INST] 1. Le"
+109,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je conduis la voiture. [/INST] 05:"
+110,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mon mari est professeur d'anglais dans une école qui se trouve à 20 kilomètres de la maison. [/INST] 1. Mon"
+111,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La police cherche le voleur de mon vélo. [/INST] 2. Je"
+112,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est quoi le plat du jour s'il vous plaît ? [/INST] 2.0"
+113,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'est-ce que ça veut dire ? [/INST] 2. Je"
+114,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous commençons un nouveau cours [/INST] 1/ Bon"
+115,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Juste un peu. [/INST] 0:0"
+116,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Après avoir bu une tasse de thé dans un café, je rentre chez moi en bus [/INST] 2. Qu"
+117,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vais prendre une tarte aux fraises. [/INST] 0"
+118,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle est au chômage en ce moment [/INST] 0"
+119,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comment allez-vous aujourd'hui ? [/INST] 2"
+120,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je m'appelle Bob, je suis médecin et j'ai 35 ans. [/INST] 05:"
+121,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai déjà mangé. [/INST] 05:"
+122,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle est grande ! [/INST] 01."
+123,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'aime beaucoup ceux avec la tour Eiffel. [/INST] 1. J"
+124,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Juste un petit peu. [/INST] 05:"
+125,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle a décidé de s'y installer. [/INST] 2. Elle"
+126,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si vous êtes intéressé, appelez-moi. [/INST] 01."
+127,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est fini. [/INST] 0"
+128,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'espères que tu vas bien [/INST] 05:"
+129,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il y a cinq chambres, une grande cuisine, un salon et deux salles de bains [/INST] 1. Qu"
+130,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vis chez Gérarda avec ma fille depuis deux ans. [/INST] 1/ Je"
+131,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Son mari, lui, n'aime pas beaucoup la mer [/INST] 1 point"
+132,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est là, au bout de la rue. [/INST] 05:"
+133,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je profite aussi du petit-déjeuner pour lire les infos en ligne [/INST] 5/7"
+134,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Excusez-moi, je me suis perdu. Pouvez-vous m'aider ? [/INST] 1. Je"
+135,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Merci Marco, c'est très gentil ! [/INST] 0:0"
+136,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pourquoi l'oisillon se retrouve-t-il seul dans la forêt ? [/INST] 500"
+137,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce n'est pas étonnant, car c'est une saison mystérieuse [/INST] 5. Il"
+138,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'écoute des dialogues tous les jours. [/INST] 2. Qu"
+139,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'étais assez calme, j'avais beaucoup de copains et je passais des heures avec eux tous les jours [/INST] 5. Qu"
+140,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils seront tous à la maison ce soir. [/INST] 2. Je"
+141,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous allez bientôt avoir une grande surprise ! [/INST] 2. Qu"
+142,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous êtes une des copines de Zoé. [/INST] 10/"
+143,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je parle beaucoup. [/INST] 0"
+144,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je ne sais pas. [/INST] 05:"
+145,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le soir, je regarde la télé jusqu'à 11 heures. [/INST] 2. Je"
+146,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Oui, ça sera tout ? [/INST] 05:"
+147,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Excusez-moi, je me suis perdu. [/INST] 05:"
+148,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je lis un livre très intéressant ! [/INST] 1. Je"
+149,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous aimez votre travail ? [/INST] 2. Je"
+150,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tu descends l'escalier et tu tournes à gauche. [/INST] 2. Je"
+151,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est pas mal. [/INST] 0"
+152,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cet après-midi, avec mes amis nous allons au cinéma. [/INST] 1. C"
+153,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Envoie-moi un mot pour confirmer votre présence. [/INST] 1. Je"
+154,5,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La longueur est une distance mais une sensation aussi. [/INST] 5. La"
+155,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je prends le train dimanche matin. [/INST] 05:"
+156,0,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Bonne chance ! [/INST] 01."
+157,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  je me réveille tous les jpurs à 6 heures et quart. [/INST] 1. Je"
+158,2,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La vie en France est très différente de celle au Canada. [/INST] 2. Qu"
+159,1,0,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Londres est différent de Paris. [/INST] 1. La"
+160,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est auprès de son grand-père que Grégoire trouvera le courage de lutter pour devenir quelqu'un et grandir tout simplement. [/INST] 5/5"
+161,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Appuyez sur le bouton ""Marche"", en bas à droite de la machine. [/INST] 2. Qu"
+162,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pas de diplôme, pas de boulot. [/INST] 2. Qu"
+163,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Personne n'a échoué: ils ont tous réussi. [/INST] 2. Je"
+164,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je sais qu'elle est souvent seule à la maison, et que le soir il rentre très tard. [/INST] 2. Je"
+165,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dites-moi où me cacher. [/INST] 2. Je"
+166,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dites-lui qu'un pauvre berger lui souhaite le bonjour, et qu'il le prie de le secourir ."" [/INST] 5. Le"
+167,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle a dansé toute la nuit. [/INST] 2. Je"
+168,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous avons l'habitude d'acheter quinze pommes, ce sont elles qui les comptent et les mettent dans notre panier. [/INST] 15 pom"
+169,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Serveur : y a-t-il un problème avec votre table ? [/INST] 2. Le"
+170,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais je pense qu'il m'aide beaucoup. [/INST] 2. Qu"
+171,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils disaient que c'était grâce à eux que la forêt était si belle. [/INST] 2. Les"
+172,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le ciel était noir. [/INST] 2. Qu"
+173,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je ne trouve pas les livres que j'ai pris à la bibliothèque. [/INST] 2. Je"
+174,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Julie : pas avec la table, mais avec ceux de la table d'à côté ; ils parlent très fort. [/INST] 2. Le"
+175,3,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les invités voulaient boire du champagne, mais il n'y en avait plus. [/INST] 3/ Les"
+176,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Voudrais-tu te joindre à nous ? [/INST] 2. Je"
+177,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vous soigne si vous avez mal aux dents. [/INST] 2. Je"
+178,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le petit chat a plu à mes parents [/INST] 0"
+179,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est en tout cas ce que pensait Capek dans son livre fondateur. [/INST] 5. Les"
+180,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le 8 mai est la fête de la Victoire [/INST] 5"
+181,3,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Marie m'a téléphoné et elle m'a rejoint. [/INST] 3. Je"
+182,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand on est petit, on apprend à marcher dès huit mois. [/INST] 2. Qu"
+183,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je te dis à très bientôt pour une rentrée des classes en pleine forme Le matin, Théo se lève à six heures [/INST] 50."
+184,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Aujourd'hui, je suis très occupé [/INST] 1. Je"
+185,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai une arme, et toi non. [/INST] 2. Je"
+186,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il demande de l'aide à une alouette. [/INST] 5. Le"
+187,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ça change que tout le monde au XIXe siècle était obligé de comprendre le français pour aller à la mairie, au service militaire ou encore pour lire la presse. [/INST] 5/ Le"
+188,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le 8 juillet, j'ai supprimé l'eau et le lait. [/INST] 2. Qu"
+189,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le petit chat plaît à mes parents. [/INST] 2. Je"
+190,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  D'habitude, il n'avait jamais peur. [/INST] 2. Qu"
+191,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il ne faut pas toujours aller les demander à la société. [/INST] 1:0"
+192,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le serveur : Oui, ça commence dans quelques minutes ! [/INST] 21:"
+193,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a fait un temps magnifique, je suis allé me promener près du parc, il y avait un petit café ouvert. [/INST] 2. Je"
+194,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis tout à fait d'accord avec la jeune fille. [/INST] 2. Je"
+195,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Même si je sais que c'est le repas le plus important de la journée. [/INST] 2. Je"
+196,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce dragon était le vieux serpent, le roi. [/INST] 5. Le"
+197,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a plu et j'ai attendu l'autobus. [/INST] 2. Je"
+198,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Réponds-moi vite et fais ta réservation pour venir. [/INST] 2. Je"
+199,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ça va durer encore longtemps ? [/INST] 05:"
+200,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  je suis déjà en train de sortir du lit. [/INST] 1. Je"
+201,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cela remonte à il y a bien longtemps. C'était l'hiver, la veille du jour de Noël. [/INST] 1. "
+202,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pouvez-vous nous donner un peu plus de détails ? [/INST] 2.1"
+203,3,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai ouvert la porte et le chien a couru comme une flèche à l'extérieur. [/INST] 3. J"
+204,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Non, juste quelques minutes. [/INST] 0:0"
+205,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  l'école doit nous préparer à affronter ce monde. [/INST] 2. Les"
+206,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Chaque soir, je lis un peu et je dors sur le divan. [/INST] 5"
+207,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Bien, l'enquête est terminée, madame. [/INST] 2. Qu"
+208,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est une fête très joyeuse où tout le monde met des vêtements pleins de couleurs. [/INST] 1. Qu"
+209,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je te dis à très bientôt pour une rentrée des classes en pleine forme ! [/INST] 2
+
+"
+210,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je fais du sport tous les jours. [/INST] 1 point."
+211,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On a passé le reste de la journée à faire les boutiques. [/INST] 2-0"
+212,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  A la fin de son apprentissage, Julien est parti en France. [/INST] 2. Qu"
+213,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je crains que la table ne soit pas encore disponible. [/INST] 25."
+214,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Non, ne lisez pas ce texte pour l'instant ! [/INST] 1. Je"
+215,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il reste au lit un quart d'heure dans le noir avant de se lever, pour faire durer la nuit. [/INST] 5. Il"
+216,3,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qui est déjà monté à cheval ? [/INST] 3"
+217,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En fait, ma mère préfère faire le ménage toute seule parce que moi, je casse tout. [/INST] 1. Je"
+218,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour ne pas être malade, lave-toi souvent les mains et ne bois pas dans le verre d'un autre enfant. [/INST] 1. Ne"
+219,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  T'as pas honte. [/INST] 10."
+220,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous avez bien étudié et vous avez réussi facilement. [/INST] 2. Je"
+221,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est un gentil bouledogue qui aime les câlins. [/INST] 2. Qu"
+222,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À votre arrivée, le 7 juin prochain, nous allons vous accueillir à l'aéroport pour vous conduire à votre hôtel. [/INST] 2. Je"
+223,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un petit garçon : Ben trois dans un nid et dans l'autre, y'en a deux [/INST] 1. Un"
+224,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Alors, je les ai remises et j'ai vu son sourire. [/INST] 2. Qu"
+225,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si tu portes un nom arabe, tu as plus de mal à trouver du travail que si tu t'appelles François ou Sylvie. [/INST] 5. Les"
+226,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je crois que c'est surtout pour me faire plaisir. [/INST] 2. Qu"
+227,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tous les matins, il suit la même routine : il commence par se laver le visage avant de prendre une douche. [/INST] 5"
+228,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et les enfants adorent cette fête parce qu'on ne mange rien d'autre que des crêpes. [/INST] 2. Qu"
+229,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous prônez une ouverture de l'école sur le monde d'aujourd'hui, je suis tout à fait d'accord avec vous. [/INST] 2:0"
+230,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un roman émouvant, où il est question d'apprendre à vivre, de trouver sa place parmi les autres. [/INST] 5/5"
+231,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est la commémoration, c'est-à-dire la fête anniversaire, de la fin de la Seconde Guerre mondiale. [/INST] 1. Qu"
+232,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais le rocher était fermé. [/INST] 5. Le"
+233,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'école ne peut pas tout faire. [/INST] 2. Je"
+234,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est génial, j'ai tout vu avant vous ! [/INST] 1:0"
+235,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On est vraiment content que tu sois présente. [/INST] 2. Je"
+236,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis en train de repeindre ma chambre. [/INST] 1. Je"
+237,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si tu veux tu peux aussi m'appeler ; je suis chez moi vers 20 h 30. [/INST] 20:"
+238,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ne pas respirer les aérosols. [/INST] 1. Ne"
+239,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il sait bien cuisiner alors en général, il prépare aussi le repas. [/INST] 1. Il"
+240,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il y a un nouveau film avec son acteur préféré [/INST] 2. Qu"
+241,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vous remercie et je vous souhaite une très bonne journée. [/INST] 2. Je"
+242,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation. [/INST] 2:0"
+243,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Oui, merci, c'est gentil ! [/INST] 01."
+244,3,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À la Une ce soir, la condamnation de Nicolas Sarkozy. [/INST] 3, "
+245,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une foule se forme à la sortie du théâtre et se lance dans une série de mises à sac de demeures appartenant à des représentants de l'autorité royale, avant d'être réprimée dans le sang par l'infanterie [/INST] 5. Le"
+246,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le nombre de manifestants varie d'une année à l'autre selon la popularité du gouvernement en place. [/INST] 5. Je"
+247,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À très bientôt. [/INST] 0"
+248,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Avec son allure, il donne l'impression d'être le maître du monde. [/INST] 5. A"
+249,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais pas de maison de poupées [/INST] 1. Je"
+250,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous avons commencé un nouveau cours [/INST] 1/2"
+251,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous vous remercions de votre compréhension et nous vous souhaitons une excellente journée. [/INST] 2. Je"
+252,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette maison est la nôtre. [/INST] 05:"
+253,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle met son chapeau et elle va à l'épicerie de quartier. [/INST] 1. Elle"
+254,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On a dû écouter nos parents [/INST] 5. On"
+255,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comme il faisait très beau, nous nous sommes promenés le long de la Seine [/INST] 5-0"
+256,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai pris du poisson avec du riz, et mon frère a choisi un simple steak-frites [/INST] 2. Qu"
+257,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Où étais-tu hier soir aux alentours de dix heure ? [/INST] 22:"
+258,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Alors, qu'est-ce qu'on leur donne là ? [/INST] 2.5"
+259,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ensuite, il se sèche très vite les cheveux pour aller manger son petit déjeuner. [/INST] 1. Qu"
+260,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'école n'a plus la même fonction qu'hier parce que le monde a changé. [/INST] 500"
+261,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ma femme ma dit que tu es trés gentille. [/INST] 2. Je"
+262,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Jamais, moi je parlerai comme ça de mon père. [/INST] 1. Je"
+263,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il nous arrive de procéder de cette façon de temps en temps. [/INST] 5"
+264,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est la jungle. [/INST] 1. C"
+265,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a pris son parapluie et il est sorti. [/INST] 1. Il"
+266,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Là, la trap, ça vient tout droit des States et c'est tout nouveau en fait dans le rap [/INST] 50."
+267,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il fumait un paquet de cigarettes par jour avant d'arrêter. [/INST] 5 ans après"
+268,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comment tu as trouvé le repas de ce midi [/INST] 2. Je"
+269,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je m'appelle Camille et quand j'étais enfant, j'avais des rêves plein la tête. [/INST] 1. Je"
+270,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le dimanche, il se repose et en profite pour faire ses devoirs pour la semaine. [/INST] 1. Le"
+271,3,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il était temps pour eux de migrer vers l'Afrique, en attendant le prochain été. [/INST] 3.
+"
+272,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il y a un an, j'ai décidé de ne plus manger de viande. [/INST] 2. Je"
+273,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Maintenant que je le connais, je n'ai plus peur ! [/INST] 2. Je"
+274,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tout savoir avant d'adopter un chat. [/INST] 1. Un"
+275,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais le marché est loin de leur maison et ils ne peuvent pas y aller à pied. [/INST] 2. Les"
+276,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand on était petit, on apprenait à marcher. [/INST] 1. Qu"
+277,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Enseigner à apprendre, même par ceux qui ne réussissent pas. [/INST] 500"
+278,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vais chez le dentiste l'après-midi mais je suis libre le soir [/INST] 0"
+279,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le gâteau est dans le frigo. [/INST] 05:"
+280,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai trouvé un stage qui me plaît beaucoup. [/INST] 1/ Je"
+281,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tu veux du sucre dans ton café [/INST] 05:"
+282,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai obtenu ce que je voulais, je suis satisfait. [/INST] 2. Je"
+283,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous aimez l'aventure ? [/INST] 1. V"
+284,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je ne pourrai pas venir demain. [/INST] 10:"
+285,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On pourra se faire un cinéma ou un bowling à l'occasion si tu veux ? [/INST] 2. Je"
+286,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils ont des étoiles plein les yeux [/INST] 2. Les"
+287,3,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est maintenant ou jamais. [/INST] 3.0"
+288,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tu as entendu ce bruit ? [/INST] 1 point :"
+289,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ensuite, je vais faire mes courses au supermarché où je vais acheter des fruits et des légumes [/INST] 1"
+290,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  D'autres sont plus critiques. [/INST] 5. D"
+291,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais ma plus grande passion, c'est l'art. [/INST] 1. Qu"
+292,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous savez, je ne l'utilise que pour les cas d'urgence ! [/INST] 2.1"
+293,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est exactement l'une des meilleurs methodes d'apprentissage d'une langue etrangere. [/INST] 5. Je"
+294,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un petit garçon : On essaye de leur parler [/INST] 1:0"
+295,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La cuisine est la pièce préférée de ma maison [/INST] 1. La"
+296,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les hommes la découpent et la placent au-dessus de la flamme. [/INST] 5. Les"
+297,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il faut bien faire attention à ses vêtements et à sa coiffure [/INST] 1. Il"
+298,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je m'appelle Laurent et j'habite à Paris avec mes parents, ma soeur ainée et mon frère. [/INST] 01."
+299,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Non, ne mange pas votre goûté dans la classe ! [/INST] 2. Je"
+300,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comme ça, je pourrais l'utiliser plus souvent ! [/INST] 2.0"
+301,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vincent cherche une idée de cadeau pour le départ de sa collègue de bureau [/INST] 2. Vincent"
+302,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Êtes-vous prêts à découvrir cette histoire de Noël ? [/INST] 2. Le"
+303,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais la société a évolué et si l'école ne le fait pas il y aura de plus en plus de jeunes comme ceux que décrit Mlle Lesueur. [/INST] 5"
+304,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et toi, ça va ? [/INST] 05:"
+305,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vais me promener dans le parc avec mon camarade. [/INST] 1. Je"
+306,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Oh tu sais, au début ce n'était pas facile. [/INST] 2:0"
+307,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une petite fille : Là ils [ne] comprennent pas notre langue parce qu'ils [ne] parlent pas [/INST] 5] français"
+308,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tu pourrais ranger ta chambre, ça t'aiderait à les retrouver ! [/INST] 2. Je"
+309,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est déjà le lundi, et toute la semaine recommence [/INST] 1. C"
+310,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il pensait qu'un chef pouvait manger des pizzas et des frites tous les jours. [/INST] 2. Il"
+311,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et bien, pourquoi pas ? [/INST] 1. Pour"
+312,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les médecins disent souvent qu'on doit boire un verre de vin rouge après les repas. [/INST] 2. Les"
+313,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Donne-moi la serviette ! [/INST] 05:"
+314,2,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Excusez-moi, serait-il possible de changer de table ? [/INST] 2. Je"
+315,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette fois, les femmes et les enfants marchent au milieu du groupe. [/INST] 1. Les"
+316,0,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je répare votre voiture. [/INST] 05:"
+317,1,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mon frère Patrice est plus jeune que moi [/INST] 1 point"
+318,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Puis, plus grand, je découvrais les métiers de policier et d'avocat dans un film [/INST] 500"
+319,5,1,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je rentrais chaque jour en compagnie de mon amoureux. [/INST] 5 points"
+320,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  ""Le démon partit bien vite, et il se précipita dans le trou, où, hélas, il retrouva la méchante femme. [/INST] 5. Le"
+321,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand j'ai lu, j'ai découvert de nouvelles choses surprenantes sur les locataires qui occupaient l'appartement. [/INST] 5"
+322,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous parlez de la loi en général, mais vous oubliez de préciser que ce texte n'est pas voté! [/INST] 50:"
+323,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cet homme n'hésitera pas à accueillir les hôtes qui se présentent chez lui au risque de perdre la vie. [/INST] 5. C"
+324,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il apprendra à ne pas courir après un ballon ou à ne pas avoir peur du klaxon des voitures. [/INST] 2. Il"
+325,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Du haut de cette colline la vue sur Marseille est remarquable [/INST] 3/5"
+326,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vais vous donner une traitement qui va vous aider. [/INST] 2:0"
+327,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est aussi un test pour les couples nouvellement formés ou qui n'avaient jamais expérimenté la vie à deux. [/INST] 5. Les"
+328,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cela faisait trois semaines que le navire était immobilisé accidentellement sur un récif, un rocher dans la mer, près de l'île. [/INST] 5"
+329,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand je reviendrai, j'offrirai beaucoup d'amour à ceux que j'aprécie et je couvrirai mes enfants de présents. [/INST] 2. Qu"
+330,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Voyager c'est bien mais voyager responsable c'est encore mieux ! [/INST] 2. V"
+331,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La vertu : la vertu est le mérite, la moralité ou la sagesse d'une personne. [/INST] 3. La"
+332,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le courant d'air ainsi créé permet à la sueur - qui absorbe la chaleur du corps - de s'évaporer et ainsi de le refroidir. [/INST] 500"
+333,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'était sa grande différence entre lui et moi. [/INST] 5. Je"
+334,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils m'ont expliqué qu'ils n'avaient pas encore vu quelqu'un d'aussi expressif, et qu'ils allaient me recontacter. [/INST] 5 points"
+335,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous allons nous promener en bord de mer et rendre visite à nos amis. [/INST] 1. Je"
+336,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je ne suis qu'un bon soldat timide. [/INST] 5. Je"
+337,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vois bien l'intérêt de cet appareil, mais je n'en ai pas l'usage. [/INST] 2. Je"
+338,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il devait à tout prix téléphoner à son bourreau quand il recevait des nouvelles de son banquier. [/INST] 5. Qu"
+339,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous deviez rendre des comptes à la justice pour vos crimes. [/INST] 5. Qu"
+340,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous allez piloter ce fichu avion et m'amener en Amérique du Sud. [/INST] 2. Je"
+341,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est une soupe de poissons, spécialité de Marseille [/INST] 2 kg de"
+342,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le visage comprend une oreille de chaque côté, deux yeux surmontés par les sourcils et un nez au centre [/INST] 5/5"
+343,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Soudain, il entendit une voix qui lui disait de s'approcher. [/INST] 5. Qu"
+344,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En cette fin de matinée, Djengo, jeune chien d'un an et demi, est au travail. [/INST] 5"
+345,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils se sont fait des copains et sont heureux de vivre en France [/INST] 2. Qu"
+346,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis désole, mais je suis resté en arrière avec tes histoires. [/INST] 2. Je"
+347,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une petite révolution et des chiffres qui parlent tout seuls. [/INST] 5 0"
+348,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il accepte les différences, il est tolérant. [/INST] 2. Il"
+349,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour les habitants des quartiers historiques, la vie n'est plus la même : les rues pleines de touristes perdent peu à peu leurs magasins de quartier. [/INST] 5/ La"
+350,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À partir de maintenant, il travaillera avec nous dans l'équipe commerciale en tant que responsable des ventes. [/INST] 2/ Je"
+351,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand il y a un grand soleil sur la carte, il fera chaud sur la région [/INST] 2. Qu"
+352,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle cueillera les roses et elle les arrosera si nécessaire. [/INST] 5. Qu"
+353,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'allez-vous faire demain ? [/INST] 2. Je"
+354,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Évidemment, mes lunettes sont par terre, et moi, sans mes lunettes, je n'y vois rien, mais alors, rien du tout ! [/INST] 2. Je"
+355,0,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est un parc où les gens viennent se promener en famille et entre amis [/INST] 0"
+356,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le tableau paraissait plus beau qu'avant. [/INST] 5. Le"
+357,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je voudrais tellement que tout le monde admire mes tableaux ! [/INST] 2. Je"
+358,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il avait pris sa belle valise verte qu'il trimballe depuis vingt ans, pour passer cinq jours de vacances près de Vannes chez sa vieille amie Sylvaine qu'il voyait beaucoup avant de vivre à Valencienne [/INST] 5. Il"
+359,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Car depuis ce dimanche, l'utilisation des sacs en plastique fins est interdite dans tout l'État de New York sous peine d'une amende de 250 dollars [/INST] 5. Qu"
+360,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est un médicament qui est très bon pour soigner les problèmes d'estomac. [/INST] 1. "
+361,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il n'y a cependant pas de plats de légumes à la carte. [/INST] 2. Je"
+362,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Accusé de vol, l'homme a fini par avouer qu'il était coupable. [/INST] 3. Qu"
+363,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis allé la voir dès que j'ai appris qu'elle avait des problèmes. [/INST] 5"
+364,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand ils s'approchent trop près de la tribu, les femmes leur jettent des pierres et les hommes les chassent. [/INST] 500"
+365,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En me massant, il a soulagé ma douleur. [/INST] 5. Je"
+366,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour terminer, n'oubliez pas le maquillage [/INST] 2. Le"
+367,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  ""Je n'ai pas l'habitude d'être en compagnie de quelqu'un vingt-quatre heures sur vingt-quatre et sept jours sur sept"", reconnaît cette chroniqueuse culinaire. [/INST] 5. Qu"
+368,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En hiver, elle ne sort jamais sans son parapluie et son écharpe [/INST] 5. Je"
+369,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une semaine au calme, ça procure un vrai plaisir. [/INST] 2. Je"
+370,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si vous pouviez rencontrez un artiste, qui est-ce que vous aimeriez rencontrer? [/INST] 2:5"
+371,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La marche était cassée et je suis tombé par terre. [/INST] 2. Je"
+372,0,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je compte bien arriver dès huit heures. [/INST] 08:"
+373,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai été me plaindre à la mairie mais ça n'a servi à rien ! [/INST] 2. Je"
+374,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Est-ce que ton mari et tes enfants vont bien [/INST] 2: O"
+375,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce n'est une surprise pour personne: avec le semi-confinement et le télétravail, les conflits entre voisins ont augmenté. [/INST] 5 ans après"
+376,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il jouait au jokari avec un ami. [/INST] 1. Qu"
+377,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce n'était ni un bateau, ni un avion, mais un moyen de transports terrestre. [/INST] 3-2"
+378,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Au sous-sol, il y a une cave, pour ranger le vin [/INST] 1. Au"
+379,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Aujourd'hui, avec ma famille (mes parents et mon frère) nous sommes allés au marché de Noël, c'était vraiment incroyable [/INST] 1. A"
+380,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'aime aussi me promener avec mes amis en rêvant de voyages que nous pourrions faire ensemble. [/INST] 2. Je"
+381,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  ""Nous devons nous préparer à de nouvelles mutations du coronavirus et ne plus dépendre uniquement de l'UE pour la production de vaccins de deuxième génération"", a-t-il ajouté. [/INST] 3. Le"
+382,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une partie de l'énergie fournie pour se déplacer est transformée en chaleur. [/INST] 5. Une"
+383,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  A qui appartient le chien qui aboie nuit et jour ? [/INST] 5/7"
+384,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle s'appelle Joy, on parlait de tout, on s'entendait super bien ! [/INST] 10:"
+385,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le bac en poche, le premier d'entre eux choisit d'en faire son métier. [/INST] 5. Le"
+386,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ici, tout est immense, il y a du monde partout, les gens sont pressés c'est impressionnant ! [/INST] 5"
+387,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est cette première canicule qui avait notamment décidé Greta Thunberg à s'asseoir avec sa pancarte devant le parlement de Stockholm, c'était le début de la grande mobilisation des jeunes pour le climat [/INST] 3/ Le"
+388,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il est nécessaire que les gens soeint conscients de l'importance de l'écologie [/INST] 5"
+389,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Lorsqu'il y a un éclair avec des nuages et de la pluie, il risque d'y avoir de la foudre et du tonnerre [/INST] 500"
+390,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La nouvelle a fait grand bruit: cette affaire de couvre-feu cache en fait une angoisse plus profonde. [/INST] 3/ Je"
+391,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Soit on le trouvera ridicule et ce sera une catastrophe. [/INST] 5. Je"
+392,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Demain, nous nous lèverons tôt et nous nous promènerons dans la les bois situés aux alentours du manoir. [/INST] 2. Je"
+393,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce livre, tu me le conseilles ou tu me le déconseilles? [/INST] 3. Je"
+394,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vais tirer une balle dans chacun de tes membres si tu ne me donnes pas cette serviette. [/INST] 3. Le"
+395,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une bouchée de : cette expression fait référence à la quantité d'un aliment qu'on met dans la bouche en une fois. [/INST] 5-0"
+396,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'ai fait de gros progrès en français, je le comprends et je sais le parler et l'écrire bien mieux maintenant [/INST] 2. Qu"
+397,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il passe la matinée au Mucem qui est un musée récent et très connu [/INST] 2. Il"
+398,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  il y a du travail, des théâtres, des cinémas, la vie culturelle est riche [/INST] 2. Qu"
+399,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est le cas à Nowra, à l'ouest de Sidney, où notre envoyée spéciale Murielle Paradon a pu rencontrer un couple de sexagénaires qui a trouvé refuge dans sa voiture [/INST] 5] Qu"
+400,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Sur le fond, tout le monde est d'accord. [/INST] 2. Qu"
+401,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En juillet, ma famille et moi irons dans le Sud de la France. [/INST] 1. Je"
+402,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pourquoi tu n'as pas acheté cette antiquité ? [/INST] 2. Pour"
+403,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vous demanderai de tout lui montrer et de le seconder cette semaine. [/INST] 2. Je"
+404,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si j'ai un accident, mon coeur ou mon foie pourront être utilisés. [/INST] 2. Je"
+405,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils ont déménagé car sa femme a été mutée à Paris. [/INST] 2. Ils"
+406,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est en représentant mon journal, Le Parisien, à l'émission Res Publica, à la radio, que j'ai rencontré Jean-Luc Hess, qui dirigeait alors la station. [/INST] 5. Qu"
+407,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais je trouve qu'il vaut mieux permettre aux élèves de s'habiller comme ils veulent. [/INST] 2. Qu"
+408,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Rien n'était si beau, si leste, si brillant, si bien ordonné que les deux armées. [/INST] 5. Qu"
+409,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il y a un nouveau médicament pour traiter les problèmes de coeur. [/INST] 2. Je"
+410,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  S'impliqueront-ils dans la vie sociale du collège? [/INST] 5. S"
+411,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ces chocolats, coulés en forme d'oeufs, de lapins et de poules, sont souvent dispersés dans le jardin pour être retrouvés par les plus jeunes : c'est la ""chasse aux oeufs"". [/INST] 5. Qu"
+412,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comment s'appelle le directeur pour lequel vous travaillez ? [/INST] 50."
+413,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Derrière ces jeunes, il y a très souvent des parents en grande difficulté à cause de la pauvreté ou du chômage. [/INST] 5/ Je"
+414,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La forêt leur donne du bois et du gibier. [/INST] 2. Les"
+415,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Venez profitez du studio d'enregistrement et de la salle de répétitions ! [/INST] 2
+
+"
+416,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais pour les visiteurs et les professionnels, c'est également l'occasion de découvrir les dernières innovations, et surtout de goûter les créations des chefs pâtissiers et chocolatiers [/INST] 5. Qu"
+417,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les serveurs sont mal organisés, c'est dommage. [/INST] 2/5"
+418,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est vraiment génial d'être en ville et d'avoir les monuments, les musées et la plage au même endroit [/INST] 5/5"
+419,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il n'a fallu que 12 ans, entre 1999 et 2011, pour que la population mondiale passe de 6 à 7 milliards d'habitants [/INST] 5: Qu"
+420,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Montrant un gentilhomme qui va et vient dans la salle comme s'il cherchait quelqu'un. [/INST] 5. Le"
+421,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  250 nouveaux talents seront sur le marché du travail d'ici la fin de l'année. [/INST] 3. Les"
+422,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Après un trajet en bus, il est heureux de retrouver la mer [/INST] 2. Il"
+423,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous ne privons plus du bonheur de manger [/INST] 5. N"
+424,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dans le désert, tous les hommes n'ont pas la peau noire. [/INST] 2. Qu"
+425,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je te souhaite également tout le meilleur pour cette nouvelle année ! [/INST] 2. Mer"
+426,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle est vraiment contente que tu aies acccepté l'invitation. [/INST] 2. Je"
+427,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand je finirai ce travail, je partirai en Floride. Je fuirai l'hiver et les grands froids. [/INST] 2. Qu"
+428,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce week-end on était à l'hôtel pour une réunion familiale, bon on hésite quoi, quand on croise les gens dans le couloir, on ne sait pas trop s'il faut porter le masque. [/INST] 2. Je"
+429,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  ""Je vous laisserai sortir seulement à condition que vous juriez solennellement que vous ne révélerez à personne où vous avez dormi, ni comment vous êtes entré dans la grotte aux serpents !"" dit le roi. [/INST] 5. Le"
+430,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle serait partie en vacances. [/INST] 2. Je"
+431,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je mets tous mes efforts et toute mon énergie exclusivement dans le travail. [/INST] 5. Je"
+432,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'aimerais que tu fermes la fenêtre avant de partir. [/INST] 2. Je"
+433,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et la grande personne était bien contente de connaître un homme aussi raisonnable. [/INST] 5. Le"
+434,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Certains, comme les Bédouins, sont des Blancs à la peau mate et tannée par le soleil. [/INST] 5. Les"
+435,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comment vont les enfants ? [/INST] 2. Je"
+436,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Remarquez bien que les nez ont été faits pour porter des lunettes, aussi avons-nous des lunettes. [/INST] 5. Les"
+437,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le berger pensa à sa femme, et descendit la montagne aussi vite que possible, car il avait peur d' être grondé parce qu'il était resté si longtemps absent. [/INST] 5. Qu"
+438,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Équipé d'une caméra, d'un téléphone portable et d'un ordinateur, il aide le client à faire ses courses directement dans le magasin. [/INST] 5. Le"
+439,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Plus qu'à un changement de métier, c'est à un changement de vie auquel aspirent ces individus. [/INST] 5/ Le"
+440,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et c'est ce plus qui nous différencie des autres écoles informatiques. [/INST] 2:0"
+441,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comme c'est proche de la maison, je peux y aller à pied, c'est très agréable [/INST] 2. Je"
+442,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle est surprise que les étudiants soient toujours en retard. [/INST] 2. Elle"
+443,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand il doit rencontrer un client important, Marc n'hésite pas à s'habiller sobrement [/INST] 5. Qu"
+444,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En janvier dernier, j'ai voulu laisser un message sur le répondeur de mon frère. [/INST] 5"
+445,3,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On a beau dire, mais la France ça reste quand même le pays des 400 fromages. [/INST] 3:0"
+446,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a précisé qu'il partait en vacances dès demain. [/INST] 2. Il"
+447,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il nous a indiqué qu'il avait fini son film hier et qu'il allait en commercer un nouveau dans deux semaines. [/INST] 5/ Je"
+448,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je l'aide en français et elle me donne un coup de main en anglais, parce que ce n'est pas ma matière préférée . [/INST] 2. Qu"
+449,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ta soeur est venue hier nous rendre visite. [/INST] 10."
+450,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le télévendeur travaille à temps plein, à temps partiel ou en complément d'une autre activité. [/INST] 5. Qu"
+451,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On ne peut pas tout faire pendant les heures de cours, ce qui me pose un problème, en vue de la journée scolaire. [/INST] 5
+
+"
+452,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À mon avis, il faut s'entraîner et se préparer aussi bien que possible pour les épreuves de toutes sortes. [/INST] 2. Je"
+453,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est une manière de découvrir un endroit en évitant les lieux touristiques et en respectant le milieu naturel. [/INST] 2. Les"
+454,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette situation pourrait laisser croire qu'il y a un retard dans l'apprentissage d'une des deux langues, mais quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve le même nombre de mots, en moyenne. [/INST] 5. Qu"
+455,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tu as continué à penser à ton amant disparu. [/INST] 5"
+456,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En chemin, il a pu admirer la magnifique fontaine Bartholdi sur la grande Place des Terreaux. [/INST] 5/7"
+457,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les membres sont au nombre de quatre [/INST] 1:0"
+458,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La méchante femme n'y retournera sûrement pas."" Le démon partit bien vite, et il se précipita dans le trou, où, hélas, il retrouva la méchante femme. [/INST] 5. Qu"
+459,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Essayez maintenant d'identifier les mots de vocabulaire dans l'histoire en l'écoutant à nouveau. [/INST] 5. Les"
+460,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est donc une méthode qui suppose une capacité d'écoute, de réflexion et une bonne disposition d'esprit. [/INST] 5. Qu"
+461,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et pour l'Europe, et bien pour l'Europe, c'est la française Claire Nouvian qui a été récompensée pour son combat au sein de son association Bloom, créé en 2005, pour préserver la biodiversité de l'océan [/INST] 5:0"
+462,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Trop souvent le tourisme est une cause de dégradation de l'environnement ou de désorganisation d'une société traditionnelle alors que le voyageur doit être à l'écoute, tolérant et s'adapter à la vie locale. [/INST] 5. Le"
+463,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les gens voulaient fuir le monde, et généralement, là où il y avait beaucoup de monde, c'était les destinations sud. [/INST] 5. Les"
+464,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La femme faisait tout ce que son mari lui demandait. [/INST] 5. La"
+465,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce chien m'apporte beaucoup de bonheur. [/INST] 2. Je"
+466,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quelle est la plus belle qualité de la femme d'Azaël ? [/INST] 500"
+467,0,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Oui, nous allons bien. [/INST] 0:0"
+468,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  ""J'ai vraiment dû beaucoup insister pour être choisi ! rapporte Monsieur. [/INST] 5. Le"
+469,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il y a douze milles entre la cabane du pêcheur et la ville. [/INST] 2. Qu"
+470,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le réalisateur m'a expliqué qu'il avait longtemps cherché l'acteur idéal. [/INST] 5"
+471,2,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il fait un froid incroyable à Moscou mais la ville est superbe [/INST] 2. Je"
+472,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Enfin, il faut savoir que l'éducation complète d'un chien guide coûte très cher et qu'en France, les dix écoles sont entièrement financées par des dons. [/INST] 5/ Je"
+473,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un ange de l'hospitalité, envoyé par le prophète vient sauver le pacha. [/INST] 5. Le"
+474,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il est impératif de tenir votre chien en laisse lorsque vous le promenez. [/INST] 1. Je"
+475,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le pacha vient en aide à un serpent (le roi des serpents) car l'un des commandements du Coran est de faire preuve d'hospitalité ses hôtes. [/INST] 500"
+476,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En Amérique du Nord, LeeAnn Walters, une femme au foyer, a été distinguée pour avoir créé un mouvement citoyen qui a permis de révéler la crise de l'eau contaminée de Flint dans le Michigan [/INST] 5. Qu"
+477,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous avons reçu plusieurs plaintes à ce sujet. [/INST] 5"
+478,1,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les piscines partagées par exemple ou ce genre de chose, là je me suis dit, cet été, bof quoi. [/INST] 1:0"
+479,5,2,"[INST] <<SYS>>
+
+<</SYS>>
+
+  ""La batterie est en dessous du niveau nécessaire pour faire fonctionner l'ordinateur central"", a dit M. Ulamec. [/INST] 50"
+480,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il savait déjà qu'il faut éviter les aliments grossiers, les lourdes venaisons et les boissons fermentées ; il connaissait aussi l'influence bienfaisante des bains fréquents, qui gardent la peau saine et reposent des fatigues. [/INST] 5. Il"
+481,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il décrivait aussi les longues arènes entourées de gradins où s'exerçaient les jeunes hommes, le labeur patient par lequel ceux-ci se préparaient aux jeux, et les soins incessants qui, après de longues années, leur méritaient les odes des poètes, les acclamations de la foule et les honneurs des cités. [/INST] 5/7"
+482,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Alors après, on va bien distinguer dans les dettes : les dettes publiques, privées, multilatérales.Voilà, parce que de quelles dettes parle-t-on ? [/INST] 5:0"
+483,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La communauté scientifique apprécie peu la présence de femmes. [/INST] 50:"
+484,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ces gens cultivaient leurs terres, élevaient des troupeaux, obéissaient aux usages, aimaient et mouraient selon la loi commune. [/INST] 5. Qu"
+485,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Autrement dit, avoir une ""vraie"" vie sociale satisfaisante conduirait à passer moins de temps sur les réseaux sociaux. [/INST] 5/ Je"
+486,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il n'y a là rien d'impossible, estime un député, 75 % des déplacements domicile-travail font aujourd'hui moins de 5 km et 70 % de ces trajets sont faits aujourd'hui en voiture. [/INST] 3. Les"
+487,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  700 000 tonnes de couches usagées sont jetées chaque année au Japon, ce qui représente jusqu'à 25 % des déchets incinérés dans certaines communes. [/INST] 5. Les"
+488,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce précieux instrument, d'origine américaine, envoyait, sans se gêner, un projectile conique de quatre kilogrammes à une distance moyenne de seize kilomètres. [/INST] 5. Le"
+489,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ces chiffres sont susceptibles de varier au cours de cette année. [/INST] 5/ Je"
+490,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On semble oublier que le personnel en milieu scolaire applique déjà cette mesure. [/INST] 5"
+491,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Grâce à l'intervention de monsieur Ibrahim, le monde des adultes s'était fissuré, il n'offrait pas le même mur uniforme contre lequel je me cognais, une main se tendait à travers une fente. [/INST] 5/7"
+492,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'anecdote est révélatrice. [/INST] 5. L"
+493,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les préadolescents et adolescents semblent particulièrement sensibles. [/INST] 5. Les"
+494,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La pudeur vous défend de voir ma lame nue ? [/INST] 5. La"
+495,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il plut toute la nuit et le vent souffla sans cesse contre les carreaux de la ville demeure. [/INST] 5"
+496,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'accès par voie électronique de l'ensemble des formalités au registre du commerce et des sociétés. [/INST] 5. Les"
+497,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce constat est simple : la collecte des informations étant désormais, en grande partie, confiée aux ordinateurs, pourquoi demander aux élèves de mémoriser par coeur des données que l'on peut relativement facilement retrouver sur l'internet ? [/INST] 5. Les"
+498,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Liberté privée, ordre public: telle est l'équation fétiche des Français. [/INST] 5. Les"
+499,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les masses liquides transportent les plus grandes espèces connues de mammifères, et peut-être recèlent-elles des mollusques d'une incomparable taille, des crustacés effrayants à contempler, tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes ! [/INST] 5. Les"
+500,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il arrive que le portable brise les amitiés entre jeunes. [/INST] 5/7"
+501,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les reliures de tons différents, rouges, jaunes, vertes, violettes, et bleues, mettaient de la couleur et de la gaieté dans cet alignement monotone de volumes. [/INST] 5
+
+"
+502,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous proclamerons notre indépendence dès que l'armistice sera signé. [/INST] 5. Qu"
+503,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La compétence fiscale des communes est réduite car elle dépend du droit cantonal. [/INST] 5. La"
+504,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pourtant, sur cette distance, le vélo est le mode de transport le plus performant en milieu urbain et semi-urbain. [/INST] 5. Le"
+505,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le petit prince grandit en paix, entouré de tuteurs et de régents ; mais son plus intime ami et son meilleur conseiller fut un étranger, venu longtemps auparavant des contrées du Sud, qui s'étendent le long de la mer. [/INST] 5. Le"
+506,4,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour preuve : les Bédouins ont fait du thé à la menthe brûlant un véritable rituel et en consomment plusieurs fois par jour. [/INST] 4. Les"
+507,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un résultat largement inférieur à celui des déchets ménagers, qui forment la grande majorité des quelque 2 millions de tonnes de déchets électroniques produits chaque année en France, selon l'Agence de l'environnement et de la maîtrise d'énergie (Ademe). [/INST] 5%"
+508,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les micro-changements apportés par ce type d'union sont capables d'annoncer de profonds changements sociaux. [/INST] 5. Les"
+509,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les fans des costumes de Carrie Bradshaw dans ""Sex and the City"" se régaleront devant les tenues d'Emily, de la même créatrice, Patricia Field (même si on lève les yeux au ciel quand Emily se met à porter des bérets). [/INST] 5. Les"
+510,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est l'année où les centaines de milliers de baby-boomers, nés lors du pic des naissances de 1946, arriveront à la retraite. [/INST] 3. Qu"
+511,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le robot Philae s'assoupit sur la comète ""Tchouri"", après une mission historique qui a tenu en haleine et permis de récolter des données qui pourraient aider à comprendre les origines de la vie sur Terre. [/INST] 3. Le"
+512,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Des coutumes similaires ont existé autrefois notamment dans le Finistère : les enfants s'amusaient à creuser des betteraves au moment de la Toussaint pour faire peur aux gens du voisinage [/INST] 5. Les"
+513,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De quelles huées gouailleuses, de quelles curiosités grossières n'êut-il pas été l'objet et la victime! [/INST] 5. Il"
+514,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je pense que fréquenter les galeries est la meilleure manière d'éduquer son oeil à l'art contemporain. [/INST] 3.0"
+515,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les adaptations cinématographiques détruisent l'image fictive donnée par les oeuvres littéraires. [/INST] 5
+
+"
+516,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Encore faut-il réfléchir aux changements lourds induits par ces nouvelles technologies sur le plan social, politique, collectif. [/INST] 5. Les"
+517,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils attaquèrent la forêt tous ensemble, travaillant jour et nuit et frappant avec tant de force que le heurt de leurs cognées sur les troncs emplissait les plaines comme un grondement incessant de tonnerre. [/INST] 5. Les"
+518,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Presque tous les jeunes déclarent aimer leur collège ou leur lycée. [/INST] 2. Qu"
+519,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Stop : tout d'abord, figurez-vous que les vrais nouveaux pères n'ont aucune envie d'être appelés comme cela. [/INST] 50:"
+520,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous assistons à la montée des médicaments génériques et il devient difficile de renouveler les produits. [/INST] 5:0"
+521,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De nombreux opposants au projet se sont rassemblés en dépit de l'interdiction de manifester. [/INST] 3/ Le"
+522,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ne vont-ils pas accaparer les affaires publiques à leur avantage ? [/INST] 5. Les"
+523,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les professeurs d'anglais préparent des cours sur le sujet et participent à sa diffusion auprès de la jeunesse [/INST] 5/ Les"
+524,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Aussitôt que le registre du commerce aura reçu le dossier de modification, la plate-forme vous enverra une réponse électronique appelée accusé de réception . [/INST] 5. Qu"
+525,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les broches également, très pratiques aussi, en les accumulant, et les petits boléros par-dessus [/INST] 5. Les"
+526,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De plus, certaines limitations sont également apparues, en termes de puissance ou bien de permis de conduire. [/INST] 5/5"
+527,4,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Carlos Ghosn sera-t-il le dernier protagoniste de sa folle escapade à demeurer hors d'atteinte de la justice ? [/INST] 4:0"
+528,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un allongement du congé paternité peut contribuer à introduire plus d'égalité dans les couples. [/INST] 5. Les"
+529,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De plus, les agences nationales réglementaires de notre pays exigent de nous davantage de qualité, de sécurité et de fiabilité. [/INST] 5/ Les"
+530,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Même si on adore un livre, il faut, je pense, accepter que certains passages du livre soient coupés ou modifiés, car le travail d'écriture est complètement différent du travail d'adaptation cinématographique. [/INST] 5. Qu"
+531,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les cadeaux seront déposés à son pied, le soir du 24 ou le 25 décembre au matin [/INST] 2. Mer"
+532,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'avantage des galeries, c'est qu'elles sont souvent gratuites contrairement aux musées dont l'entrée est souvent payante. [/INST] 3. Les"
+533,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Durant les années 1990, beaucoup de gens étaient réticent à cette nouvelle fête : Les parents et les enseignants n'y voyaient qu'une fête commerciale [/INST] 5/ Je"
+534,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En raison de la sécheresse qui a réduit les récoltes, le même gouverneur Bradford proclame une journée de jeûne et de prière [/INST] 5. Le"
+535,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un jeune Enfant dans l'eau se laissa choir en badinant sur les bords de la Seine. [/INST] 5. Une"
+536,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Claude HAGÈGE est Professeur au Collège de France et Directeur d'études à l'École Pratique des Hautes Études [/INST] 5. Qu"
+537,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dans sa tête, le bruit de bottes des soldats allemands résonna. [/INST] 5 ans plus"
+538,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ton direct et souvent bougon pour Joe Manchin, 73 ans, et discrétion médiatique contrastant avec les perruques et tenues colorées de Kyrsten Sinema, 44 ans, première candidate au Sénat ouvertement bisexuelle en 2018. [/INST] 5. Le"
+539,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si vous étiez arrivés à l'heure comme convenu, vous auriez vu le début du reportage auto-biographique sur l'auteur contemporain le plus convoité du moment. [/INST] 5"
+540,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une perspective quasi inconcevable dans un Congrès aussi divisé. [/INST] 3. Le"
+541,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et comme elle était, à ses débuts, utilisée sur les trottoirs, elle a occasionné de nombreux accidents [/INST] 5/ Je"
+542,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si vous aviez cherché ces dossiers, vous les auriez trouvés. [/INST] 3. Qu"
+543,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand elle est élevée, la FOMO est souvent associée à une humeur très fréquemment négative, une faible satisfaction de sa vie en général et à plus de symptômes dépressifs. [/INST] 5. Qu"
+544,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce qui équivaut à dire que si vous pouviez atteindre cette profondeur dans l'océan, chaque centimètre carré de la surface de votre corps subirait une pression de mille kilogrammes. [/INST] 5. Qu"
+545,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il apprit à courir, à lutter, à sauter, à lancer au loin de lourdes pierres, à franchir les murs, à frapper des deux mains, à dresser de jeunes chevaux, à franchir à la nage les rivières. [/INST] 5. Il"
+546,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour éviter un oubli, vous pouvez consulter le ""Guide des formalités"" en ligne. [/INST] 3. Qu"
+547,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À chaque respiration elle sentait la fumée entrer dans ses poumons, tel un insidieux poison. [/INST] 5"
+548,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les parents qui ont du mal à couper le cordon s'étonnent que leurs enfants préfèrent brancher leur boîte vocale et ne répondent pas à leurs appels. [/INST] 5. Les"
+549,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les enseignants qui sont en classe inversée, ils parlent à tous leurs élèves, tous les jours. [/INST] 2:0"
+550,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En attendant, de petites formations d'initiation à l'algorithmique et au langage informatique ont été réalisées pour les professeurs des écoles et des collèges, les inspecteurs et les formateurs d'IUFM (Institut Universitaire de Formation des Maîtres). [/INST] 5/ Les"
+551,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les grainetiers, les grands grainetiers québécois n'ont plus de stock, et donc l'approvisionnement est rendu difficile. [/INST] 3. Les"
+552,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  James a ensuite rejoint le quartier moderne de la Confluence où le fleuve de la Saône se jette dans le Rhône [/INST] 5/ Qu"
+553,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est très important, surtout dans une dynamique d'innovation dans laquelle travaille typiquement une équipe de développement de voir, en tant que manager, que les personnes en face s'expriment indépendamment, offrent leurs pistes d'amélioration sur leur travail au quotidien. [/INST] 5"
+554,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est pourquoi, si près de 50 % de nos essais sont sous-traités, nous gagnerons en souplesse et éviterons la baisse momentanée de nos effectifs. [/INST] 5"
+555,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il est tombé malade l'année précédant son mariage. [/INST] 5/7"
+556,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le spectacle était épouvantable et charmant. [/INST] 3. Le"
+557,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les tentes des nomades offrent un asile tempéré, à condition d'être ouvertes pour favoriser l'installation d'un courant d'air qui évacue la chaleur. [/INST] 5. Les"
+558,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il y a essentiellement trois grandes catégories. [/INST] 5. Les"
+559,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un journaliste de Art Press a interviewé Agathe sur la performance dans laquelle elle a participé. [/INST] 3.0"
+560,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La tradition nord-américaine veut qu'on se retrouve en famille pour manger une dinde farcie accompagnée d'une purée de pommes de terre, de patates douces, d'une gelée de canneberges et une tarte à la citrouille [/INST] 5/ Je"
+561,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce dernier lui décrit sa patrie dans les contrées du sud, il lui parle des coutumes, des traditions de son peuple. [/INST] 5. Il"
+562,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si elle avait un caractère plus commode, elle nouerait plus d'amitiés sincères. [/INST] 5. Si"
+563,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À mi-parcours, il doit souvent faire demi-tour. [/INST] 5. Il"
+564,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les passants semblent moins pressés, et s'attardent plus facilement devant une devanture ou dansles rayons. [/INST] 5. Les"
+565,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ces gens vivent en autarcie totale. [/INST] 5. Qu"
+566,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour ses défenseurs, le projet pourrait permettre d'adapter les pratiques scolaires au monde professionnel. [/INST] 5. Les"
+567,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je travaille dans une compagnie d'assistance médicale en tant que médecin consultant pour la partie Asie-Pacifique. [/INST] 5. Qu"
+568,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a également la possibilité de verser des indemnités kilométriques à ceux qui utilisent leur véhicule personnel pour se rendre au travail. [/INST] 5/ Je"
+569,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quant à ma grande passion, l'art contemporain, elle est née lors d'une visite au musée d'art moderne de New York, puis de la ""Phillips Collection"" à Washington DC quand j'avais 18 ans. [/INST] 2. Qu"
+570,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le temps est loin où les explorateurs découvraient des îles désertes avec des plages de sable fin. [/INST] 5. Le"
+571,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La trottinette électrique est aussi limitée aux pistes cyclables ou sur la chaussée, entraînant des conflits avec les cyclistes et les automobilistes [/INST] 5"
+572,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si tu étais moins bavard, les gens te confieraient plus de secrets intimes et confidentiels. [/INST] 3. Si"
+573,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La construction de routes et d'infrastructures dans les forêts entraîne le plus souvent un afflux de population incontrôlable, ce qui ne fait qu'accroître le déboisement. [/INST] 5. Les"
+574,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les passants semblent moins pressés, et s'attardent plus facilement devant une devanture ou dans les rayons [/INST] 5- Qu"
+575,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Des balades sur les quais de Seine jusqu'au pont des Arts, des pauses déjeuner au jardin du Luxembourg, des plans de la tour Eiffel et de l'Opéra Garnier : les décors de la série ""Emily in Paris"" semblent tout droit tirés d'un guide touristique. [/INST] 5. Les"
+576,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À 40 ans, il est usé [/INST] 5. A"
+577,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À cette occasion, a été annoncé un grand plan vélo destiné à faire décoller enfin ce mode de transport, notamment grâce à l'indemnité kilométrique : ce dispositif autorise l'employeur à dédommager ses salariés se rendant au travail à vélo (environ 0, 25 euro par kilomètre parcouru). [/INST] 5"
+578,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous sommes pris en otages par des imposteurs, par des maniaques du pré-cuit et de la vinaigrette en sachet ! [/INST] 5. Les"
+579,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle était demeurée jusqu'à douze ans dans la maison, puis, malgré les pleurs de la mère, elle fut mise au Sacré-Coeur. [/INST] 5. Qu"
+580,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le vernissage aura lieu le 22 juin à la Galerie de la Calande. [/INST] 3"
+581,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une fois franchi le seuil de l'entrée, on peut apercevoir, dans un coin, un tas de chaussures sombres, puis, tel un arc-en-ciel, une rangée de téléphones portables. [/INST] 5"
+582,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Certains se défendront en citant la nouvelle cuisine censée jadis révolutionner nos habitudes. [/INST] 5. Les"
+583,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  ""Prince, dirent-ils, la forêt est trop sauvage et trop grande : aucun homme ne pourrait pénétrer jusqu'à son coeur. [/INST] 5. Qu"
+584,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'ambitieux a les dents longues mais pour réussir, les ambitieux doivent être prudents et persévérants sinon ils peuvent se casser les dents. [/INST] 5/5"
+585,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Du surgelé, du réchauffé, du périmé et pire encore : de l'industrialisé se faisant passer pour du traditionnel ! [/INST] 5. Le"
+586,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et puis la France, comme la plupart des pays du monde, doit importer les matières premières inexistantes sur son sol et ne fabrique plus la totalité des produits sur son territoire [/INST] 5. Les"
+587,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La multiplication des nouvelles technologies va-t-elle nous faire perdre la tête? [/INST] 5:0"
+588,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a dérivé pendant deux jours avant d'être secouru. [/INST] 5 points"
+589,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En effet, sitôt rentrés chez eux, Vanessa, 14 ans, Raphaël, 16 ans, Marie, 44 ans, et Patrick, 45 ans, branchent les petites boîtes colorées afin de les recharger. [/INST] 5. Qu"
+590,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Outre les économies substantielles que permet une telle collaboration, les entreprises bénéficient désormais de jeunes formés à leurs besoins spécifiques. [/INST] 5. Les"
+591,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais pas en proposant des portions microscopiques présentées de manière pompeuse. [/INST] 5. Les"
+592,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'était avec ravissement que la comtesse retrouvait les souvenirs de sa première jeunesse et les comparait à ses sensations actuelles. [/INST] 5. Qu"
+593,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est le début de troubles qui se poursuivent et s'étendent au reste du territoire tout au long du mois de septembre les fameuses ""Journées de septembre"" amplifiés le refus de Guillaume 1er de considérer les revendications des insurgés [/INST] 5. Les"
+594,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il commence même déjà à dater. [/INST] 5 ans."
+595,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une deuxième balle fit étinceler le pavé à côté de lui. [/INST] 5. Une"
+596,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un lundi, Franck et Guillaume, qui travaillaient tous les dimanches comme extras dans un autre restaurant sur l'avenue, se sont rendus au chevet de leur grand-mère [/INST] 5. Ils"
+597,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Leur capacité de concentraction s'effiloche. [/INST] 5. Le"
+598,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Au collège et au lycée, on pratique l'art de la conversation, celui de la complicité, des petites passions partagées dans un sentiment de légèreté et d'insouciance puisque rien n'est définitif. [/INST] 5. Les"
+599,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ces espérances l'avaient rendu très indulgent pour beaucoup de fautes que j'avais commises. [/INST] 5 points"
+600,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les Français ne cèdent pas au chacun pour soi, mais ils s'intéressent d'abord à leur cercle familial proche. [/INST] 5. Les"
+601,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'aurais voulu pouvoir quitter le bureau à 13h. [/INST] 2. J"
+602,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La prolifération de la culture sur brûlis a largement dégradé la forêt ivoirienne alors que le Gabon a plus à craindre de l'ouverture de son couvert forestier à l'exploitation industrielle du bois. [/INST] 5. Les"
+603,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le revenu des enfants sous autorité parentale est ajouté à celui du détenteur de l'autorité parentale. [/INST] 5. Les"
+604,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Par exemple, porter une robe noire avec un foulard de couleur vive, fuschia ou orange ou rouge ou vert, et deux jours après, vous remettez cette robe noire avec d'autres bijoux, un gros collier [/INST] 5- Qu"
+605,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Vous procéderez au paiement sécurisé en ligne de l'opération. [/INST] 2. V"
+606,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Même si la Révolution française était déjà en cours, la prise symbolique de la Juillet forteresse, qui ne comptait que 7 prisonniers à l'époque, reste l'événement clé de la révolte [/INST] 5. Qu"
+607,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Soyons sérieux [/INST] 3. S"
+608,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour compenser les pertes d'eau par transpiration, il faut se réhydrater en continu : dans le désert, il peut être nécessaire de boire jusqu'à 10 litres d'eau par jour. [/INST] 5. Les"
+609,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Beaucoup voient leur nid familial sous un nouveau jour : ""Les appartements parisiens des arrondissements historiques sont peut-être plein de charme, mais ils sont surtout trop petits"", se moque le Wall Street Journal. [/INST] 5. Les"
+610,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Depuis 2006, les particuliers français peuvent recycler des déchets d'équipements électriques et électroniques grâce à la reprise un pour un . [/INST] 5. Qu"
+611,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si nous sommes bloqués dans l'ascenseur qui s'est arrêté brusquement, nous appellerons du secours dès que la communication sera établie. [/INST] 2. Je"
+612,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si elle avait étudié davantage, elle aurait pu réussir l'examen. [/INST] 2. Si"
+613,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et chaque hiver constitue une nouvelle menace. [/INST] 5. Les"
+614,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est le principe de responsabilité élargie du producteur, initié par la directive européenne de 2003, qui leur impose de prendre en charge la fin de vie de leurs appareils. [/INST] 5/ Le"
+615,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le 24 décembre est le jour du réveillon [/INST] 2. Le"
+616,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il n'y a qu'à observer la métamorphose des rues commerçantes pouren être convaincu. [/INST] 5. Je"
+617,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La mère de Raphaël et de Vanessa exprime sa satisfaction : depuis que ses enfants possèdent un portable, ""ça a libéré ma ligne"", déclare-t-elle. [/INST] 5
+
+"
+618,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il est particulièrement observé chez les personnes ayant un besoin de popularité développé, qui considèrent dès lors le moindre signal du smartphone comme un possible indicateur de leur degré de popularité. [/INST] 5-0"
+619,4,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Colette eut des funérailles nationales lors de sa mort en 1954 et est enterrée auprès de sa fille, au cimetière du Père-Lachaise à Paris. [/INST] 4. Co"
+620,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Déjà, les problèmes s'accumulent. [/INST] 5. Je"
+621,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour notre entreprise, externaliser, c'est se concentrer sur nos activités principales, recherche et commercialisation, que nous maîtrisons parfaitement et faire réaliser par des intervenants extérieurs les activités de production et les essais cliniques. [/INST] 5. Pour"
+622,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une conversation normale se fait à 60 dB, tandis que le bruit du vent dans les arbres atteint les 20 dB. [/INST] 5. Qu"
+623,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le gouverneur de la colonie, William Bradford, décida alors de proclamer un jour de remerciement et d'action de grâce pour remercier Dieu de leur avoir donné une terre finalement si accueillante avec des indigènes si serviables [/INST] 5. Qu"
+624,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cela lui paraissait invraisemblable. [/INST] 5. C"
+625,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Finies les façades grises et ternes, terminée la morosité ambiante : les rues se parent de guirlandes scintillantes et les vitrines rivalisent d'imagination pour leur décoration. [/INST] 5. Les"
+626,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le jeune prince ne se lassait pas de redemander ces récits, et l'étranger ne pouvait se lasser de les répéter, évoquant à ses yeux les corps frottés d'huile, tordus dans l'horreur de la lutte ou se ramassant pour la détente, la foule ondulant au soleil, les pieds nus volant sur le sable. [/INST] 5"
+627,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Com' est l'abréviation de communication, de commandant, de communion, de commerce - le petit com du coin, ainsi de suite. [/INST] 5. Le"
+628,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À cette occasion, a été annoncé un grand plan vélo destiné à faire décoller enfn ce mode de transport, notamment grâce à ""l'indemnité kilométrique"". [/INST] 5. Qu"
+629,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les appareils pouvant être recyclés à 85% de leur poids environ, l'enjeu est important. [/INST] 5. Les"
+630,3,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils sont tolérants et compréhensifs, à condition que les enfants réussissent leurs études. [/INST] 3. Les"
+631,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Finies les façades grises et ternes, terminée la morosité ambiante [/INST] 5. Les"
+632,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Aux États-Unis, on fêtera Thanksgiving le quatrième jeudi de novembre [/INST] 5-0"
+633,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les retraités sont sur-représentés dans l'électorat français par rapport aux autres tranches d'âge. [/INST] 5. Les"
+634,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Fini les pâtes à l'italienne, les gros haricots blancs, les pommes de terre en robe des champs avec du beurre et du bon pain frais. [/INST] 5. Les"
+635,2,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les usines sont situées à Mattighofen au nord de Salzbourg. [/INST] 2. Qu"
+636,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Toniques, les papy-boomers sont formatés pour le changement. [/INST] 5. Les"
+637,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Soumis à des persécutions en raison de leur confession protestante, ils espèrent pouvoir vivre leur foi librement [/INST] 5/ Je"
+638,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Créatrice d'emplois, la filière permet aussi de rééquilibrer une balance commerciale souvent désavantageuse, tout en diversifiant les activités locales. [/INST] 5. Les"
+639,5,3,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Caterina serait, selon la tradition, fille de paysans pauvres. [/INST] 5/5"
+640,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Après lui avoir fait faire une bonne lieue, à pied, dans l'obscurité rendue plus profonde en apparence par le feu des bivouacs qui de toutes parts éclairaient l'horizon, l'adjudant remit Fabrice à un officier de gendarmerie qui, d'un air grave, lui demanda ses papiers. [/INST] 5"
+641,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En clair, les adolescentes souffrent d'un complexe d'infériorité par rapport à leurs comparses masculins, comme l'a montré cette sociologue de l'éducation dans un ouvrage de référence, L'Ecole des filles (L'Harmattan). [/INST] 5/ Je"
+642,4,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce système s'inspire de celui contre la désinformation liée aux élections et processus civiques, qui a notamment conduit Twitter à bannir l'ancien président américain Donald Trump. [/INST] 4. Les"
+643,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Exilée en permanence, je passe mes nuits à souder les rails qui mènent à l'identité. [/INST] 5
+
+"
+644,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais les pays les plus défavorisés voient leur situation alimentaire se dégrader inexorablement. [/INST] 5. Les"
+645,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un débat public et démocratique est donc nécessaire! [/INST] 3. Les"
+646,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Observant que, à l'exception du changement de mode de scrutin pour les communes dont la population est comprise entre 2 000 et 3 500 habitants, le texte issu des travaux de l'Assemblée nationale avait recueilli une approbation presque unanime de tous les groupes de cette assemblée, le rapporteur a souhaité rappeler que la démarche suivie par les députés, consistait à mettre en oeuvre des solutions permettant d'optimiser la présence des femmes dans la vie politique. [/INST] 5/7"
+647,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Des start-up développent des solutions sur le thème de la reconnaissance temps-réel de formes dans une vidéo. [/INST] 5. Les"
+648,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un jour, Cunégonde, en se promenant auprès du château, dans le petit bois qu'on appelait parc, vit entre des broussailles le docteur Pangloss qui donnait une leçon de physique expérimentale à la femme de chambre de sa mère, petite brune très jolie et très docile. [/INST] 5"
+649,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les Inuits espèrent pouvoir s'appuyer sur un rapport qui sera remis en septembre 2004 aux huit pays du Conseil de l'Arctique. [/INST] 5. Les"
+650,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On préférait se référer à l'autonomie des civilisations juxtaposées. [/INST] 5. Les"
+651,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  A 50 ans, on est vieux pour l'entreprise, tranche la chasseuse de têtes Catherine Euvrard, sexa survitaminée. [/INST] 5. Pour"
+652,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ça a développé je pense instinctivement et naturellement ma créativité en cuisine [/INST] 50%"
+653,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Des réseaux nationaux, puis internationaux, se sont créés pour fournir des informations à leurs membres, préparer des campagnes de sensibilisation, voire faire du lobbying. [/INST] 5/ Les"
+654,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Telle est du moins la représentation métaphorique qu'on s'en fait dans la culture populaire afghane, entre soeurs, copines ou voisines, à l'abri des oreilles masculines indiscrètes. [/INST] 5. Les"
+655,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Honte de devoir leur amour à ma beauté, mon écoeurante beauté qui fait battre les paupières des chéries, ma méprisable beauté dont elles me cassent les oreilles depuis mes seize ans. [/INST] 5. """
+656,2,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ensuite, nous sortions pour notre promenade au parc, où nous retrouvions quelques amis [/INST] 2. Qu"
+657,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La durée de retention des données peut être fixée par des réglementations sectorielles. [/INST] 5. Les"
+658,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle se retrouvait dans les lectures de sa jeunesse, en plein Walter Scott. [/INST] 5. Il"
+659,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour une meilleure conservation, notre chef a transformé ses piments végétariens et son ail en purée, en les mixant avec une à deux cuillères d'huile [/INST] 5. Pour"
+660,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  D'autres enquêtes montrent que les enseignants interrogent plus souvent les filles que leurs camarades du sexe ""fort"" sur des sujets à connaître ""par coeur"". [/INST] 5. Les"
+661,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le ressortissants d'un pays tiers à l'Union européenne et des pays associés soumis à visas, qui souhaitent effectuer un court séjour dans un ou plusieurs pays de la zone Schengen [/INST] 5. Pour"
+662,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une autre organisation qui produit sa part d'impact sur les peuples autochtones de la côte est la Commission baleinière internationale . [/INST] 5/ Je"
+663,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En cette grande occasion, pour accomplir ce voyage politique, le marquis remettait à son fils quatre écus, et, suivant l'usage, ne donnait rien à sa femme, qui le menait. [/INST] 5. Qu"
+664,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En remontant dans le temps, on s'aperçoit que le déclin de la diversité linguistique a été considérablement accéléré par les conquêtes colonialistes européennes qui ont éliminé au moins 15 % des langues parlées à l'époque. [/INST] 5. Les"
+665,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le 7 mars 1991, 25 000 réfugiés albanais atteignent le port de Brindisi, dans la région des Pouilles. [/INST] 5. Qu"
+666,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Chaque printemps, la Quinzaine du commerce équitable est l'occasion de lancer de grandes campagnes de sensibilisation. [/INST] 5/ Qu"
+667,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Que ces acteurs, telle la marque Max Havelaar, croient ou feignent de croire qu'ils disposent du rapport de force nécessaire pour infléchir les pratiques de ces multinationales, c'est leur droit. [/INST] 5. Les"
+668,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Bref, première leçon, le québécois n'est pas un français déformé mais plutôt un français historique, proche de celui qui était parlé en France avant le 17e siècle [/INST] 5- Qu"
+669,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'Europe eut la bonhomie d'être surprise de cet évènement, qui ne surprit point le marquis del Dongo ; il écrivit à son souverain une lettre pleine d'effusion de coeur ; il lui offrait ses talents et plusieurs millions, et lui répétait que ses ministres étaient des jacobins d'accord avec les meneurs de Paris. [/INST] 5. Qu"
+670,2,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mon second copain fit des études de commerce. [/INST] 2-1"
+671,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous voulons surmonter les obstacles judiciaires et techniques qui nous empêchent d'intercepter les conversations téléphoniques par Skype entre les suspects. [/INST] 5"
+672,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La Chine et l'Inde connaissent depuis dix ans une augmentation du taux de surpoids de 5 %. [/INST] 5%"
+673,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comme un rappel du massacre des quelque 60 millions de bisons orchestré à la fin du XIXe siècle pour venir à bout des Peaux Rouges. [/INST] 5. Le"
+674,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il l'avait tenue là sévèrement enfermée, cloîtrée, ignorée et ignorante des choses humaines. [/INST] 5. Il"
+675,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le Falcon 1 est un lanceur théoriquement réutilisable qui peut placer, selon son constructeur, 670 kg en orbite basse. [/INST] 3.
+"
+676,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ensuite, on ira au cinéma du quartier qui organise tous les ans des séances spéciales [/INST] 5/5"
+677,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Viennent ensuite les personnes âgées, puis les personnes malades ou handicapées, qui font l'objet d'une sollicitude en hausse. [/INST] 5. Les"
+678,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Au fils des pages, je doutais qu'ils eussent écrit ces lignes et proses de ses propres mains. [/INST] 5. Qu"
+679,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il avait une de ces pâleurs splendides qui donnent quelque chose de la majesté des marbres aux races ardentes du Midi. [/INST] 5. Il"
+680,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les ignorer en restant nostalgique est inconscient. [/INST] 5. Les"
+681,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Notamment, ils valorisent davantage la tolérance, l'ouverture aux autres, le métissage culturel, la solidarité et l'indépendance d'esprit. [/INST] 5/ Les"
+682,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Leur vue parut frapper si vivement l'adjudant sousofficier, qu'aussitôt il changea de pensée, et se mit à interroger aussi le domestique. [/INST] 5. Qu"
+683,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Près de 100 squelettes complets d'animaux ont été découverts jusqu'ici dans une zone relativement petite de 100 m², à l'ouest du Grand Temple. [/INST] 5- Qu"
+684,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Plus près de nous, l'internationalisation des marchés financiers, la diffusion de l'information par les médias électroniques et les autres avatars de la mondialisation ont intensifié la menace qui pesait déjà sur les petites langues. [/INST] 5. Les"
+685,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Au nom du mot 'tradition, ' ils demandent que les autochtones se conforment à celles-ci. [/INST] 5. Les"
+686,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La malnutrition apparaît donc aujourd'hui comme le résultat d'une organisation inadéquate du système économique et politique. [/INST] 5. Les"
+687,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le frère aîné de Fabrice, le marchesine Ascagne, voulut se mettre des promenades de ces dames ; mais sa tante jetait de l'eau sur ses cheveux poudrés, et avait tous les jours quelque nouvelle niche à lancer à sa gravité. [/INST] 5. Qu"
+688,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Êtes-vous pour ou contre la création d'un lexique autochtone pour désigner les termes d'informatique d'origine anglophone? [/INST] 50%"
+689,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Certes, l'individu, actif et volontaire, est le seul initiateur de sa reconversion. [/INST] 5. Les"
+690,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La sémantique du directeur de l'opéra, en fin de carrière, rejoint celle du sénateur (LR) Etienne Blanc, qui fustige la décision de l'exécutif écologiste, allié à la ""gauche unie"". [/INST] 5. Le"
+691,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Personnalité clivante au sein de la majorité, la ministre de la transition écologique, Barbara Pompili, a la lourde tâche de redorer le bilan environnemental d'Emmanuel Macron pour l'élection présidentielle de 2022. [/INST] 3. Qu"
+692,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour dissuader ses lycéens de faire les Beaux-arts, l'École du cirque ou un diplôme d'arts du spectacle, un proviseur avait coutume de leur raconter cette histoire : ""J'avais deux copains [/INST] 5. Pour"
+693,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Malgré la réticence du gouvernement italien, le gouvernement des États-Unis aurait de son côté manifesté son intérêt à connaître les démarches entreprises par les enquêteurs des 27 pays membres de l'Union européenne. [/INST] 5. Le"
+694,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour y remédier, à leur échelle, des militants ont commencé à organiser leurs propres filières d'importation dès la fin des années 1960. [/INST] 5. Qu"
+695,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous nous interrogeons sur le soutien moral et financier des pouvoirs publics à une campagne de sensibilisation dont le message (""Achetez du café qui vous permette de dormir tranquille"", encart publicitaire de la marque Max Havelaar France) suinte la vieille culture coloniale qui marque encore aujourd'hui nos imaginaires collectifs et notre rapport au monde: le rôle de l'État est-il de financer des opérations de ""communication éthique"" d'enseignes multinationales? [/INST] 5. Les"
+696,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cet épisode, auquel la population locale répondra par un élan de solidarité inédit, marque un tournant dans l'histoire de l'Italie, confrontée pour la première fois à l'immigration de masse. [/INST] 5/7"
+697,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Chaque fin de semaine, ils partaient ensemble en ran- donnée dans les Alpes [/INST] 5-0"
+698,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Longtemps, il fut une journée remplie d'obligations sociales. [/INST] 5. Qu"
+699,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La ville, chaude comme une étuve, paraissait suer dans la nuit étouffante. [/INST] 5. La"
+700,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une belle robe moulante, elle veut mettre en avant ses formes [/INST] 5/ Une"
+701,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une des sources majeures des gaz à effet de serre dans le monde étant la production d'électricité d'origine fossile, il est donc normal de s'atteler à l'immense tâche de décarboner nos productions. [/INST] 5. Les"
+702,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il s'arrêtait toutes les quatre ou cinq brasses pour écouter la cloche mais, à chaque halte, elle semblait plus éloignée. [/INST] 5. Qu"
+703,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les bruits de klaxon viennent entrecouper les mots des militantes qui s'expriment, un micro dans leurs mains endolories par le froid matinal. [/INST] 5"
+704,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le plasma ainsi conservé ne pourra être utilisé que lorsque le deuxième don du donneur, quatre mois après le premier, n'aura révélé aucun marqueur infectieux. [/INST] 5. Le"
+705,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quoique en Turquie le premier gueux en haillons aille s'asseoir sur le divan des cafés auprès du Turc le plus somptueusement vêtu sans que celui-ci se recule pour éviter à sa manche bordée d'or le contact d'une loque effilochée et graisseuse, cependant certaines classes ont leurs lieux de réceptions habituels, et le café à la fontaine de marbre est un des mieux hantés de la ville. [/INST] 5. Le"
+706,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ascagne jura de se venger de Fabrice. [/INST] 5. Qu"
+707,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et comment le conservatoire finance-t-il la protection du littoral et l'accueil du public ? [/INST] 5 % des"
+708,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le projet de loi pour le climat, qui reprend certaines propositions de la Convention citoyenne, sera débattu à l'Assemblée fin mars et en commission spéciale dès lundi. [/INST] 3/ Le"
+709,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous apprécions qu'ils aient répondu sur-le-champ. [/INST] 5. Je"
+710,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Avec la lutte contre le séparatisme, une stratégie d'entrave et répressive contre l'islam radical est mise en oeuvre. [/INST] 5. Les"
+711,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je me fus lourdement trompé dans mon calcul . [/INST] 5. Je"
+712,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais il faut pour cela qu'un certain nombre de conditions soient réunies : la communauté elle-même doit avoir envie de sauver sa langue ; la culture plus vaste dans laquelle elle s'inscrit doit respecter les langues minoritaires ; et il faut des fonds pour financer les cours, le matériel pédagogique et les enseignants. [/INST] 5/ Je"
+713,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Giscard va pourtant réussir à transformer ce revers en tremplin [/INST] 5"
+714,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  vec ses livreurs à vélo aux énormes sacs à dos carrés, l'entreprise est devenue incontournable pendant la pandémie. [/INST] 5/5"
+715,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dans cette véritable ""biographie de la langue française"", les auteurs veulent mettre les pendules à l'heure et malmener queslques fausses croyances [/INST] 5. Qu"
+716,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les cadres d'aujourd'hui quittent leur entreprise pour ouvrir des maisons d'hôtes. [/INST] 3.0"
+717,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Lucie s'avançait, à demi soutenue par ses femmes, une couronne d'oranger dans les cheveux, et plus pâle que le satin blanc de sa robe. [/INST] 5. Le"
+718,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les yeux de Fabrice se mouillèrent, il répandit des larmes en embrassant la comtesse, mais sa résolution de partir ne fut pas un instant ébranlée. [/INST] 5. Qu"
+719,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce lundi 8 mars, Journée internationale des droits des femmes, les salariés de McDonald's sont à nouveau dans la rue. [/INST] 3."
+720,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Lui qui, enfant, suivait sa mère trappeur, peut encore aujourd'hui emmener son fils de 14 ans chasser, mais dit craindre la réduction des quotas de chasse pour les ours polaires. [/INST] 5"
+721,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il interroge surtout la prétendue affinité élective de celle-ci avec le seul monothéisme. [/INST] 5. La"
+722,4,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Franny Stone et son mari Niall, ornithologue, ont été aux avant-postes du crépuscule de la biodiversité. [/INST] 4. Qu"
+723,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette réaction est réalisée dans des organites intracellulaires spécialisés, les chloroplastes, porteurs de pigments photorécepteurs, tels que les chlorophylles, les caroténoïdes. [/INST] 5. Les"
+724,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  33° à l'ombre, et 80% d'humidité, aujourd'hui, c'est au ceur du jardin tropical de Valombreuse que nous vous proposons de découvrir l'une des spécialités culinaires les plus consommées aux Antilles : les accras de morue [/INST] 5. Qu"
+725,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une preuve en est que deux millions d'emplois en Europe, nécessitant des compétences scientifiques et technologiques, ne sont pas pourvus. [/INST] 5. Les"
+726,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le départ est le seul horizon offert à ceux qui cherchent les mille écrins où le destin cache les solutions de ses mille erreurs. [/INST] 5. Le"
+727,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les français sont attachés à leur pause dominicale. [/INST] 3. Les"
+728,2,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On vient d'acheter une résidence secondaire, au Pays basque, qui sera notre point de ralliement familial. [/INST] 2. Qu"
+729,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La charpente et la couverture ne sont plus étanches, les balustrades en granit sont abîmées, certains parements doivent être remplacés ou consolidés, quatre verrières du XIIIe siècle, les plus anciens vitraux répertoriés en Bretagne, ne sont plus protégés. [/INST] 5/7"
+730,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le développement des technologies a permis une augmentation importante de la productivité et a soulagé les hommes de nombreuses tâches ingrates ; pourtant le travail occupe encore une très large place dans nos existences. [/INST] 5. Qu"
+731,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Or, Internet et les réseaux sociaux mobilisent toute notre attention et ne permettent pas de trouver cette tranquillité d'esprit. [/INST] 5"
+732,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le grand objet de ces expéditions nocturnes, que Fabrice commandait en chef, était d'aller visiter les lignes dormantes, avant que les pêcheurs eussent entendu l'avertissement donné par les petites clochettes. [/INST] 5. Le"
+733,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La ""visio"" atténuera sans doute l'émotion des retrouvailles et la solennité des adieux. [/INST] 5/ Je"
+734,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'idée de base en commande référencée vision consiste a considérer un système de vision comme un capteur particulier associé à une tâche et inséré dans une boucle de commande. [/INST] 5/ Le"
+735,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La taille des ménages est à cet égard un facteur important: les ménages issus de la migration, qui sont en général plus grands, doivent partager leurs revenus et leur patrimoine entre plus de personnes que les ménages non issus de la migration. [/INST] 5. Les"
+736,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ainsi, en Amérique latine, en Asie de l'Est et du Sud-Est, et même au sein du sous-continent indien, de gros progrès ont été accomplis depuis trente ans. [/INST] 5. Les"
+737,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les langues ne sont pas seulement le moyen privilégié de communication entre les humains, elles incarnent la vision du monde de leurs locuteurs, leurs imaginaires, leurs façons de véhiculer le savoir. [/INST] 5. Les"
+738,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Contrairement aux autres lanceurs privés, passés ou encore opérationnels, le Falcon 1 utilise des composants entièrement conçus au sein de la société qui le commercialise. [/INST] 5. Le"
+739,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Voilà le chemin à suivre, finissons-en avec ce décalage inacceptable entre la cuisine d'en haut (consommée par une minorité) et la cuisine d'en bas, celle de la majorité silencieuse, débordante et insipide. [/INST] 5. Les"
+740,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Leurs enfants sont grands (ceux du premier lit du moins), leurs emprunts remboursés, leurs revenus souvent confortables - ils détiennent 60% de la richesse nationale et 50% du revenu net des ménages français - ils sont propriétaires de leur logement dans 8 cas sur 10 et possèdent un autre bien immobilier dans 1 cas sur 3. [/INST] 5) Les"
+741,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Lettres de motivation, d'amour ou de rupture, relecture de mémoires d'étudiant, textes d'hommage à lire et à distribuer pendant des obsèques, situations administratives à démêler avec la banque, les impôts ou la copropriété, l'écrivain public doit pouvoir répondre à toutes les demandes. [/INST] 5. Les"
+742,4,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Depuis, la junte lui a désigné un remplaçant aux Nations Unies, tandis que Kyaw Moe Tun assure toujours représenter le pays, un imbroglio juridique qui devra être tranché par l'ONU. [/INST] 4. Qu"
+743,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les importateurs s'engagent aussi à verser un acompte et à privilégier des relations commerciales durables avec les producteurs. [/INST] 5/ Le"
+744,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il fit ses valises énergiquement et vint à notre rencontre avec empressement et détermination. [/INST] 5"
+745,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les jeunes beaux se pavanaient au parquet, étalant, dans l'ouverture de leur gilet, leur cravate rose ou vert pomme ; et Mme Bovary les admirait d'en haut, appuyant sur des badines à pomme d'or la paume tendue de leurs gants jaunes. [/INST] 5. Les"
+746,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les pruniers étaient nus, les pommiers étaient jaunes, les feuilles de noyer tombaient en une sorte de vol plané, large et lent d'abord, qui s'accentuait d'un seul coup comme un plongeon d'épervier dès que l'angle de chute devenait moins obtus. [/INST] 5. Les"
+747,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comme le révélait récemment la police italienne, les réseaux de prostitution, les trafiquants d'armes et les vendeurs de drogue utilisent de plus en plus le logiciel de téléphonie par Internet. [/INST] 5. Les"
+748,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Sont considérés comme ""arriérés de paiement"" les impayés ou les retards de paiement dans les cas suivants: loyer ou intérêts hypothécaires sur le logement principal, factures d'eau, d'électricité, de gaz et de chauffage, primes d'assurance-maladie, remboursement de crédits et impôts. [/INST] 5. Les"
+749,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Larmoyante et enthousiasmante, aussi cheesy qu'agréable, un brin ringarde autant que brillante, la série propose quelque chose qui va complètement à contre-courant des séries contemporaines, complexes, sombres, souvent très conscientes d'elles-mêmes, mais renoue avec un aspect primordial : la proximité bientôt familière avec des personnages qu'on a envie de suivre jusqu'au bout de leur histoire. [/INST] 5. Les"
+750,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Or, sur les quelque 6 000 langues qui existent actuellement dans le monde, la moitié compte moins de 10 000 locuteurs et un quart moins de 1 000. [/INST] 5: Qu"
+751,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour expliquer ces différences, il est nécessaire d'utiliser le concept social du genre (Doyal, 2003), qui permet de comprendre par exemple comment les normes sociales ont favorisé l'adoption du tabagisme par les hommes d'abord, puis plus tardivement par les femmes. [/INST] 5/ Je"
+752,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si les produits anti, pré et probiotiques agissent sur le comportement, en modifiant la composition de la flore intestinale, ils pourraient donc servir de médicaments psychotropes. [/INST] 5. Les"
+753,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce commandant mena plusieurs batailles épiques grâce à sa bravour et ses tactiques militaires ingénieuses. [/INST] 3. Qu"
+754,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  D'après des ordres venus de Vienne, le général autrichien reçut le marquis del Dongo avec une considération voisine du respect ; on se hâta de lui offrir une des premières places dans le gouvernement, et il l'accepta comme le paiement d'une dette. [/INST] 5. Qu"
+755,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Plusieurs personnes qui ont vécu ces jours tourmentés racontent. [/INST] 5/5"
+756,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il existe, pour une fois, un consensus très large sur les conclusions d'un organisme scientifique collégial international, le Giec : pour faire face au dérèglement climatique, il est impératif de ""décarboner"" nos économies ! [/INST] 5. Les"
+757,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le directeur financier, sans doute moins heureux qu'il l'affichait, a tout abandonné : son travail, son entreprise, sa vie parisienne et son appartement cossu [/INST] 5] Le"
+758,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Toute la journée, nous sommes inondés d'informations de toute part : messages personnels, professionnels, publicitaires, fils d'infos en continu. [/INST] 5. Les"
+759,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Or, le Code du travail stipule que pour pouvoir bénéficier d'un congé sabbatique, le salarié doit remplir une double condition d'ancienneté de trente-six mois, consécutifs ou non, dans l'entreprise et six années d'activité professionnelle antérieure [/INST] 5. Le"
+760,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et nos esprits qui reçoivent les instructions de ces organes, diversement impressionnés, comprennent, analysent et jugent comme si chacun de nous appartenait à une autre race. [/INST] 5. Les"
+761,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dans l'intérêt d'une sécurité optimale pour le bénéficiaire elles sont toutefois indispensables. [/INST] 5. Les"
+762,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Originaire des Saintes, un archipel situé au sud de la Guadeloupe, Gérard-Michel a un parcours pour le moins atypique [/INST] 5] Qu"
+763,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Revue une fois, elle sera cette fois plus facilement accessible"" [/INST] 5/5"
+764,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ainsi, en cinquante ans, ""la quantité d'aliments disponible pour chaque habitant de la Terre est passée, en moyenne, de 2 320 à 2 800 kilocalories par jour"", expliquait, en 2002, Bertrand Hervieu, président de l'INRA, devant l'Académie des sciences morales et politiques. [/INST] 5. Qu"
+765,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Au fil de retours en arrière éclairant la vie passée de l'héroïne, l'écrivaine chronique par touches la disparition successive de plusieurs spécimens. [/INST] 5.
+"
+766,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La huitième édition sera la bonne [/INST] 5/ Je"
+767,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  International Business Machines Corporation, connue sous le sigle IBM, est une société multinationale américaine présente dans les domaines du matériel informatique, du logiciel et des services informatiques. [/INST] 5. Qu"
+768,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour ce faire, Ken Follett a offert l'intégralité des droits d'auteur de son récit ""Notre-Dame"", publié après l'incendie de Notre-Dame-de-Paris, le 15 avril 2019, à la Fondation du patrimoine (FDP). [/INST] 5/ Le"
+769,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Deux fois, malgré sa pauvreté, la comtesse vint passer quelques jours à Milan ; il s'agissait de voir un ballet sublime de Vigano, donné au théâtre de la Scala, et le marquis ne défendait point à sa femme d'accompagner sa belle-soeur. [/INST] 5. Qu"
+770,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour clore cette monographie du café constantinopolitain, citons-en un autre qui n'est guère fréquenté que par des matelots. [/INST] 5. Le"
+771,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le 8 mars, à six heures du matin, le marquis, revêtu de ses insignes, se faisait dicter, par son fils aîné, le brouillon d'une troisième dépêche politique ; il s'occupait avec gravité à la transcrire de sa belle écriture soignée, sur du papier portant en filigrane l'effigie du souverain. [/INST] 5"
+772,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Dès qu'il eut fini son intervention éloquante, il partit fièrement. [/INST] 5. Qu"
+773,3,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le lendemain de son 50ème anniversaire, on lui diagnostique un cancer du poumon en phase terminale avec une espérance de vie estimée à deux ans. [/INST] 3. Qu"
+774,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ici, tout est mêlé et accéléré , souligne la sociologue. [/INST] 50%"
+775,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Au cours des années 1970 et 1980, plusieurs groupes environnementalistes de pays industrialisés d'Europe de l'ouest et d'Amérique du Nord ont organisé des campagnes contre la chasse aux baleines et aux phoques. [/INST] 5. Les"
+776,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La peur du huis clos de la retraite. [/INST] 5. La"
+777,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ainsi en a décidé le très puritain George Bush, avec la bénédiction de la féministe Hillary Clinton. [/INST] 5/ Le"
+778,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'effet autocuiseur Si sept millions de citadins rêvent de refaire leur vie aux champs, tous ne passent pourtant pas à l'acte. [/INST] 5. L"
+779,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ellénore n'avait qu'un esprit ordinaire ; mais ses idées étaient justes, et ses expressions, toujours simples, étaient quelquefois frappantes par la noblesse et l'élévation de ses sentiments. [/INST] 5/7"
+780,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Se reconvertir, mode d'emploi, les deux auteures donnent des indices. [/INST] 5. Les"
+781,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En vingt ans, leur nombre est passé de 4 500 à plus de 30 000, selon la direction du Tourisme du ministère de l'Emploi, qui ne recense que les maisons d'hôtes labellisées par les principales organisations touristiques. [/INST] 5/ Je"
+782,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les peuples des côtes de l'Alaska ont été particulièrement touchés par cette politique. [/INST] 5. Les"
+783,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'intensité carbone de la Suisse est certes modérée, grâce à une faible intensité énergétique et à une production d'électricité presque totalement décarbonée. [/INST] 5. Les"
+784,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Monet peignit ce portrait emplit de sensualité et lourd de symbolisme. [/INST] 5
+
+"
+785,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  À l'époque elle avait adoré son aspect brillant et rutilant, sans la moindre éraflure. [/INST] 5. Qu"
+786,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Aristocrate de naissance, il haîssait par instinct quatre-vingt-treize; mais philosophe par tempérament, et libéral par éducation, il exécrait la tyrannie d'une haine inoffensive et déclamatoire. [/INST] 5. Qu"
+787,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Des événements privés - séparation, naissance, deuil ou problème de santé - peuvent aussi jouer un rôle clé dans la reconversion. [/INST] 5. Les"
+788,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La première modernité a inventé l'universalisme abstrait, qui définissait tout ce que les individus ont en commun. [/INST] 5. La"
+789,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Héloïse Dufour, donc je le disais, vous êtes biologiste. [/INST] 5: H"
+790,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Disons que la coopération fait partie de l'arsenal pédagogique des élèves. [/INST] 500"
+791,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cruel paradoxe. [/INST] 5. Je"
+792,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Contrairement à la cuisine italienne qui brille par sa fraîcheur et sa simplicité ou à la cuisine espagnole (pour ne citer que nos voisins les plus proches) qui allie dynamisme et innovation, la cuisine hexagonale n'est plus capable de se remettre en question. [/INST] 5. La"
+793,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il ne dit jamais rien qui puisse nous affecter outre mesure dans nos estimes de soi. [/INST] 5. Il"
+794,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette réaction est difficile à réaliser car il faut rapprocher deux noyaux qui ont tendance naturellement à se repousser. [/INST] 5. Qu"
+795,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ne trouves-tu pas que ces vieux murs noircis, symboles maintenant et autrefois moyens du despotisme, sont une véritable image du triste hiver ? [/INST] 5. Ce"
+796,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il me faut une botte de thym également [/INST] 5. Je"
+797,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On comprend qu'une semblable manière de composer, si différente de l'ancien procédé visible à tous les yeux; déroute souvent les critiques, et qu'ils ne découvrent pas tous les fils si minces, si secrets, presque invisibles, employés par certains artistes modernes à la place de la ficelle unique qui avait nom : l'Intrigue. [/INST] 5. Les"
+798,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a donc rejeté tout changement de mode de scrutin qui introduirait des mécanismes partisans et abstraits dans ces collectivités où l'appartenance politique des élus est fort peu prise en compte. [/INST] 5/ Le"
+799,5,4,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La comtesse s'était passionnée pour le caractère primitif et pour l'astrologie de l'abbé Blanès. [/INST] 5. Qu"
+800,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En effet, le risque pour un homme comme Calliclès décidant de mener une vie intempérante et désordonnée est de devenir l'esclave de ses propres passions et désirs [/INST] 5. Le"
+801,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La merveilleuse paix de cet été endormi entrait en moi comme une marée. [/INST] 5. Il"
+802,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Néanmoins, ces observations ont été obtenues en conditions contrôlées, et l'exposition des larves selon un scénario environnementalement réaliste d'ingestion de feuilles de plantes de culture contaminées n'a jamais été encore entrepris. [/INST] 5. Les"
+803,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En voici un des moins obscurs : ""Plus nous devenons maîtres de la biosphère, plus nous en devenons dépendants ; plus nous la dégradons, plus nous dégradons nos vies5. [/INST] 5. Les"
+804,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Aussitôt que Julie eut découvert la vérité, elle fut furieuse [/INST] 5. Je"
+805,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un bel organe, un imperturbable aplomb, plus de tempérament que d'intelligence et plus d'emphase que de lyrisme, achevaient de rehausser cette admirable nature de charlatan, où il y avait du coiffeur et du toréador. [/INST] 5. Le"
+806,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les conviés arrivèrent de bonne heure dans des voitures, carrioles à un cheval, chars à bancs à deux roues, vieux cabriolets sans capote, tapissières à rideaux de cuir, et les jeunes gens des villages les plus voisins dans des charrettes où ils se tenaient debout, en rang, les mains appuyées sur les ridelles pour ne pas tomber, allant au trot et secoués dur. [/INST] 5. Les"
+807,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Premièrement, la source de l'illusion humaine du libre arbitre est l'ignorance des causes qui nous poussent à agir [/INST] 5. Prem"
+808,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous la chantions ensemble, ma mère assise au piano, moi, debout devant elle, une main sur le coeur, l'autre tendue vers la barricade, nous regardant dans les yeux; lorsque nous en venions à ""Aux armes, citoyens!"", ma mère abattait ses deux mains avec violence sur le clavier et je brandissais le poing d'un air menaçant. [/INST] 5. Qu"
+809,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour certains auteurs, les conséquences pourraient être une évolution importante de l'organisation traditionnelle de l'entreprise [/INST] 5] Les"
+810,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Telle, étourdie par la gaieté des fidèles, ivre de camaraderie, de médisance et d'assentiment, Mme Verdurin, juchée sur son perchoir, pareille à un oiseau dont on eût trempé le colifichet dans du vin chaud, sanglotait d'amabilité. [/INST] 5"
+811,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'événement était drôle, mais également tristement révélateur : François Hollande a écrit un seul mot en anglais dans sa lettre de félicitations à Barack Obama pour sa réélection, et ce mot était mauvais [/INST] 5"
+812,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous brûlons de trouver une assiette ferme, et une dernière base constante pour y édifier une tour qui s'élève à l'infini, mais tout notre fondement craque, et la terre s'ouvre jusqu'aux abîmes. [/INST] 5. Les"
+813,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cet auteur tellement lu pour sa Grammaire impertinente propose aussi des Jeux pour lire vite. [/INST] 5. Je"
+814,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Notre mode de pensée, de connaissance, qui ne pousse pas à prévoir les conséquences, nous dessert, puisque la contingence et les autres viennent sans cesse contrecarrer nos prévisions, nos volontés. [/INST] 5. Les"
+815,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour mieux maîtriser son langage en septembre qu'en juin, l'écrivain Yak Rivais propose une approche très personnelle qui n'en finit pas de séduire [/INST] 5 ans,"
+816,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La première limite est que les instruments de contingentement spatial pris en compte donnent une idée de la maîtrise ""potentielle"" de l'urbanisation, maîtrise dérivant des possibilités fournies par le cadre légal et stratégique dont chaque canton s'est doté. [/INST] 5. Les"
+817,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mon amourpropre s'y mêlait. [/INST] 5. Qu"
+818,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Puis, il y eut une pause lugubre, suivie d'un vaste soupir d'agonie où l'on eût dit que l'âme de la grosse cloche s'exhalait. [/INST] 5/7"
+819,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le verbe d'Adnane était entièrement vacciné contre les mots omniprésents de la langue de bois de l'époque, comme s'il avait des oreilles-passoires filtrant les mots des médias et des haut-parleurs plantés sur chaque quartier. [/INST] 5"
+820,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Par conséquent, l'entrée dans la liberté authentique, par opposition avec la liberté illusoire des désirs infinis, c'est l'entrée dans une véritable autonomie et c'est pouvoir devenir responsable de ses actes et pouvoir en répondre [/INST] 5. La"
+821,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De fait, en scindant son enseignement supérieur en deux systèmes concurrents, la France a créé une hiérarchie dans toutes les têtes: la grande école est synonyme de réussite, l'université de rebut. [/INST] 5/ Le"
+822,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mais, comme il ne s'entendait guère plus en culture qu'en indienne, qu'il montait ses chevaux au lieu de les envoyer au labour, buvait son cidre en bouteilles au lieu de le vendre en barriques, mangeait les plus belles volailles de sa cour et graissait ses souliers de chasse avec le lard de ses cochons, il ne tarda point à s'apercevoir qu'il valait mieux planter là toute spéculation. [/INST] 5/7"
+823,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Après la transfusion, le sang provenant d'un don de sang complet ou d'un don par aphérèse est congelé à une température de moins 30 degrés Celsius et est mis en quarantaine. [/INST] 5. Après"
+824,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'étais reconnaissant de l'obligeance qu'on me témoignait ; mais tantôt ma timidité m'empêchait d'en profiter, tantôt la fatigue d'une agitation sans but me faisait préférer la solitude aux plaisirs insipides que l'on m'invitait à partager. [/INST] 5"
+825,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il clabaude aux esgourdes des blaireaux enfarinés et des tordus pasteurisés. [/INST] 5. Il"
+826,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Prolongation de la vie, retard de la vieillesse, cessation des douleurs, moyens pour corriger les défauts naturels ou pour exalter les facultés intellectuelles, etc. : à faire luire tant de vains espoirs, ils ont fait naître un si violent préjugé contre toutes nouveautés de ce genre qu'elles en sont maintenant discréditées au point que nul mortel, même courageux, ne se hasarderait à entreprendre quelque chose de semblable. [/INST] 5. Les"
+827,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un garçon tombé du Midi à Paris, avec l'audace aimable d'un aventurier et, dès le lendemain, des histoires de femme, une continuelle exploitation de la femme, le scandale d'un flagrant délit, dont le quartier parlait encore ; puis, la conquête brusque et inexplicable de Mme Hédouin, qui lui avait apporté le Bonheur des dames. [/INST] 5. Le"
+828,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Trop se spécialiser dans un environnement qui change sans cesse, c'est comme rouler vite avec des oeillères. [/INST] 500"
+829,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je passai quelques heures à ses pieds, me proclamant le plus heureux des hommes, lui prodiguant mille assurances de tendresse, de dévouement et de respect éternel. [/INST] 5. Je"
+830,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La ""marquise"" reprit un ton plus doux, car elle avait constaté que le protecteur des massifs et des pelouses l'écoutait avec bonhomie sans songer à la contredire, gardant inoffensive au fourreau une épée qui avait plutôt l'air de quelque instrument de jardinage ou de quelque attribut horticole. [/INST] 5/7"
+831,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette quête de l'altérité zonale laissa au milieu du XXe une marque géographique frappante : lorsque s'imposa l'idée de tiers-monde, il s'avéra que les pays sous-développés étaient alors très majoritairement situés dans la zone intertropicale, le ""Sud"". [/INST] 5/ Le"
+832,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Est-il exorbitant de prétendre qu'un mode de pensée qui accepte l'incertain soit devenu hors jeu ? [/INST] 5. La"
+833,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ceci dit, il reste qu'entre l'ovule et le spermatozoïde on observe des différences secondaires des plus intéressantes ; la singularité essentielle de l'ovule c'est qu'il est chargé de matériaux destinés à nourrir et à protéger l'embryon ; il accumule des réserves aux dépens desquelles le foetus édifiera ses tissus, réserves qui sont non une substance vivante mais une matière inerte ; il en résulte qu'il présente une forme massive, sphérique ou ellipsoïdale, et qu'il est relativement volumineux ; on sait quelles dimensions atteint l'oeuf de l'oiseau ; chez la femme l'ovule mesure 0, 13 mm de diamètre ; tandis que dans le sperme humain on trouve 60 000 spermatozoïdes par millimètre cube : la masse du spermatozoïde est extrêmement réduite, il a une queue filiforme, une petite tête allongée, aucune substance étrangère ne l'alourdit, il est tout entier vie ; cette structure le voue à la mobilité ; au lieu que l'ovule, où se trouve engrangé l'avenir du foetus, est un élément fixe : enfermé dans l'organisme femelle ou suspendu dans un milieu extérieur, il attend passivement la fécondation ; c'est le gamète mâle qui va à sa recherche ; le spermatozoïde est toujours une cellule nue, l'ovule est selon les espèces protégé ou non par une membrane ; mais en tout cas dès que le spermatozoïde entre en contact avec lui, il le bouscule, le fait osciller, et s'infiltre en lui : le gamète mâle abandonne sa queue, sa tête se gonfle et d'un mouvement tournant gagne le noyau ; pendant ce temps, l'oeuf forme aussitôt une membrane qui le ferme aux autres spermatozoïdes. [/INST] 5/5"
+834,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'haplodiploïdisation, en revanche, permet d'obtenir directement une lignée haploïde et donc pure, présentant les traits désirés. [/INST] 5/ Le"
+835,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Inversement, les régions tempérées lointaines n'intéressent que médiocrement les colonisateurs jusqu'à l'explosion démographique du Vieux Continent au XIXe siècle, moment où les pays neufs deviennent des polongements européens. [/INST] 5. Les"
+836,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et puis en outre, ça me paraît être un moyen prometteur pour lutter contre les inégalités et le décrochage scolaire. [/INST] 50:"
+837,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mains jointes, et un sang de velours dans les veines, ils contemplaient le ciel sublime et leur amour dans les palpitantes étoiles, bénissantes là haut. [/INST] 5. Le"
+838,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les lois de programmation mentionnées à l'antépénultième alinéa de l'article 34 de la Constitution ont pour objet de déterminer ""les objectifs de l'action de l'État"". [/INST] 5. Les"
+839,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ce qui est à moi, ces quelques milliers de mortiférés qui tournent en rond dans la calebasse d'une île et ce qui est à moi aussi, l'archipel arqué comme le désir inquiet de se nier, on dirait une anxiété maternelle pour protéger la ténuité plus délicate qui sépare l'une de l'autre Amérique ; et ses flancs qui sécrètent pour l'Europe la bonne liqueur d'un Gulf Stream, et l'un des deux versants d'incandescence entre quoi l'Equateur funambule vers l'Afrique. Et mon île non-clôture, sa claire audace debout à l'arrière de cette polynésie, devant elle, la Guadeloupe fendue en deux de sa raie dorsale et de même misère que nous, Haïti où la négritude se mit debout pour la première fois et dit qu'elle croyait à son humanité et la comique petite queue de la Floride où d'un nègre s'achève la strangulation, et l'Afrique gigantesquement chenillant jusqu'au pied hispanique de l'Europe, sa nudité où la Mort fauche à larges andains. [/INST] 5. Ce"
+840,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'épidémie de coronavirus nous contraint à éprouver l'incertain de nos existences comme une dégradation provisoire. [/INST] 5. Qu"
+841,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'ordinateur peut aussi répondre à des interruptions qui lui permettent d'exécuter des programmes de réponses spécifiques à chacune, puis de reprendre l'exécution séquentielle du programme interrompu. [/INST] 5. Les"
+842,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et des trous s'enfoncèrent dans ces alluvions de l'espace, des trous infundibuliformes, roux, par lesquels filtra une lumière de lanterne sourde. [/INST] 5. Les"
+843,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ovoïde et renflée de baleines, elle commençait par trois boudins circulaires ; puis s'alternaient, séparés par une bande rouge, des losanges de velours et de poils de lapin ; venait ensuite une façon de sac qui se terminait par un polygone cartonné, couvert d'une broderie en soutache compliquée, et d'où pendait, au bout d'un long cordon trop mince, un petit croisillon de fils d'or, en manière de gland. [/INST] 5/7"
+844,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qui résiste en effet au plaisir de ""schtroumpfer"" son texte, c'est-à-dire d'y remplacer tous les verbes d'action et les participes passés par le verbe ""schtroumpfer"", correctement accordé, bien sûr ? [/INST] 5. Le"
+845,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Sur une sorte de haquet, deux futailles de vin posaient, car c'était pour fêter la surprise d'un petit convoi républicain que Charette avait accordé cette débauche à son armée. [/INST] 5. Qu"
+846,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'avais en outre une diarrhée du diable, que j'ai vaincue sans nul médicament, par la contention mentale et donc musculaire. [/INST] 5"
+847,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils permirent ainsi, pour le meilleur et pour le pire, cette ""grande transformation"" qui multiplia les productions et autorisa l'augmentation colossale de l'espèce humaine. [/INST] 5/ Le"
+848,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Certains partirent furibonds, jurant qu'ils ne se soumettraient jamais à un roi trop jeune pour avoir de la barbe au menton [/INST] 5. Qu"
+849,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ô chants dans l'auto qui vers elle me mènera, vers elle qui m'attendra, vers les longs cils étoilés, ô son regard lorsque j'arriverai, elle sur le seuil m'attendant, élancée et de blanc vêtue, prête et belle pour moi, prête et craignant d'abîmer sa beauté si je tarde, et allant voir sa beauté dans la glace, voir si sa beauté est toujours là et parfaite, puis revenant sur le seuil et m'attendant en amour, émouvante sur le seuil et sous les roses, ô tendre nuit, ô jeunesse revenue, ô merveille lorsque je serai devant elle, ô son regard, ô notre amour, et elle s'inclinera sur ma main, ô merveille de son baiser sur ma main, et elle relèvera la tête et nos regards s'aimeront et nous sourirons de tant nous aimer, toi et moi, et gloire à Dieu. [/INST] 5"
+850,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On peut, cependant, avancer que la Daimler fut la première moto dotée d'un moteur à combustion interne. [/INST] 5/ Le"
+851,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  les dix minutes, vingt personnes sont autorisées à gravir l'escalier en colimaçon [/INST] 5. Les"
+852,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Expérience qu'il ne put mener à bien, mais qu'il y avait déjà bien du mérite à concevoir: Réaumur est le premier biologiste qui ait tenté de prolonger la vie d'un mammifère en lui imposant une torpeur artificiellement entretenue. [/INST] 5. Qu"
+853,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si quelques-uns échappent à cette destinée générale, ils renferment en eux-mêmes leur dissentiment secret ; ils aperçoivent dans la plupart des ridicules le germe des vices : ils n'en plaisantent plus, parce que le mépris remplace la moquerie, et que le mépris est silencieux. [/INST] 5. Le"
+854,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  l défend ainsi une position philosophique déterministe suivant laquelle tous les événements sont absolument nécessaires et le sentiment que nous avons d'être libres ne serait qu'une illusion naturelle [/INST] 5/ Je"
+855,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'eus de nombreuses maladies infectieuses et je dus garder le lit durant des semaines en isolement total sans l'ombre d'un espoir. [/INST] 5"
+856,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour pallier le manque de compétences transversales, la créativité dans les salles de classe de tous âges pourrait être le fait des élèves eux-mêmes, en devenant des ""proconsommateurs"" - producteurs et consommateurs - de connaissances. [/INST] 5/ Pour"
+857,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour conjurer les deux mois de vacances, ils achètent donc leur potion en librairie pour un investissement moyen de 7 euros [/INST] 5] Pour"
+858,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour conjurer les deux mois de vacances, ils achètent donc leur potion en librairie pour uninvestissement moyen de 7 euros. [/INST] 5/ Je"
+859,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Lucie entama d'un air brave sa cavatine en sol majeur; elle se plaignait d'amour, elle demandait des ailes. [/INST] 5. Qu"
+860,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Celui qui, à 65 ans, apprécie toujours autant ses visites dans les classes, estime que les parents ont parfois trop négligé des choses très simples [/INST] 5. Qu"
+861,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De ce poste élevé elle participait avec entrain à la conversation des fidèles et s'égayait de leurs ""fumisteries"", mais depuis l'accident qui était arrivé à sa mâchoire, elle avait renoncé à prendre la peine de pouffer effectivement et se livrait à la place à une mimique conventionnelle qui signifiait sans fatigue ni risques pour elle, qu'elle riait aux larmes. [/INST] 5/7"
+862,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Or à prendre les choses rigoureusement, l'homme est tout aussi déterminé à se mouvoir sous l'influence de causes externes qu'une pierre qui reçoit une impulsion [/INST] 5. Qu"
+863,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je me débattais intérieurement : j'étais indigné contre moi-même. [/INST] 5. Je"
+864,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle élevait deux enfants qu'elle avait eus du comte de P *** avec une austérité excessive. [/INST] 5. Qu"
+865,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Suen (Liebowitz, 2000), sont éloquents sur la dispersion et la variété des modes de mesure de ce type en cours aujourd'hui dans les entreprises [/INST] 5"
+866,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Chez les gros utilisateurs, cette communication comblerait un ""vide existentiel"" et contrecarrerait une vie sociale ""réelle"" insatisfaisante. [/INST] 5/ Je"
+867,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Paul Andreu, l'architecte de l'aéroport de Roissy (du terminal 1 au terminal 2E-K) ainsi que de l'Opéra de Pékin entre autres, s'était demandé s'il devait installer des portes automatiques dans un aéroport qu'il était en train de concevoir comme le requérait tout aéroport digne de ce nom car, après un rapide calcul à partir des conditions locales, le coût d'achat et sur-tout de maintenance d'une porte automatique revenait plus cher que le salaire d'un portier qui pouvait nourrir une famille avec. ce que la porte était bien incapable de faire! [/INST] 5. Paul"
+868,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La salle commençait à se remplir, on tirait les lorgnettes de leurs étuis, et les abonnés, s'apercevant de loin, se faisaient des salutations. [/INST] 5. Qu"
+869,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le tas de riz tantant tanta le tas de rats tentés. [/INST] 5. Le"
+870,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Et parions que ces nouvelles technologies sauront créer un imaginaire tout aussi riche et fécond et pas seulement être des technologies au service de notre réalité. [/INST] 5:0"
+871,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ceux qui, même adultes, apprennent le breton ou l'apprennent à leurs enfants, sont dignes d'admiration [/INST] 5/ Je"
+872,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le problème va du garçon de café tentant inintelligiblement de communiquer avec des touristes médusés jusque, comme on l'a vu, aux niveaux les plus élevés de la société française [/INST] 500"
+873,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Né en 1887 dans l'Empire austro-hongrois, serrurier de formation et poète par passion, Lajos Kassák est écrivain, peintre et fondateur de revues de l'avant-garde hongroise. [/INST] 5. L"
+874,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  D'autres éditeurs exploitent le créneau, et Internet regorge de sites intéressants qui permettent une approche moins scolaire, certes, mais tellement plus amusante, des mathématiques [/INST] 5. Les"
+875,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Occasionnellement, Kassák ment sur ses intentions, sa profession ou sa confession ; il se dit ainsi juif pour bénéficier d'une caisse d'entraide juive (autre réseau élaboré à l'échelle européenne) et manque de se faire démasquer lorsqu'il tient son livre de prières à l'envers ou peine à retenir les quelques lignes de prière apprises phonétiquement. [/INST] 5/7"
+876,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Une plaisanterie plus légère, une conversation plus variée, un mélange particulier de mélancolie et de gaieté, de découragement et d'intérêt, d'enthousiasme et d'ironie, étonnèrent et attachèrent Ellénore. [/INST] 5. Qu"
+877,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Distrait, inattentif, ennuyé, je ne m'apercevais point de l'impression que je produisais, et je partageais mon temps entre des études que j'interrompais souvent, des projets que je n'exécutais pas, des plaisirs qui ne m'intéressaient guère, lorsqu'une circonstance, très frivole en apparence, produisit dans ma disposition une révolution importante. [/INST] 5/7"
+878,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Car, si les émoluments fixes étaient insignifiants, il y avait le casuel, il y avait surtout les quêtes à domicile. [/INST] 5. Qu"
+879,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Sur le sable, la mer haletait de toute la respiration rapide et étouffée de ses petites vagues. [/INST] 5. Les"
+880,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Après 13 ans aussi, pour des raisons sociales, l'enfant commence à éprouver des contraintes caractérielles, des réticences dues à la volonté de défendre son image, à la peur du ridicule, toutes choses qui sont des attitudes d'adulte [/INST] 5/ Je"
+881,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De Buren exprime ces différents points de vue sur la ressource à travers une triple définition du concept : la ressource institutionnelle, telle qu'elle perçut au travers des règles qui encadrent ses usages, la ressource physique perçue au travers des fonctions qu'elle remplit et finalement la ressource sociale, lorsqu'elle est envisagée au travers des relations, qui se nouent entre ses usages. [/INST] 5/ La"
+882,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  On avait apporté le rôti, des perdreaux flanqués de cailles, puis des petits pois, puis une terrine de foie gras accompagnée d'une salade aux feuilles dentelées, emplissant comme une mousse verte un grand saladier en forme de cuvette. [/INST] 5/7"
+883,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle se caractérise par une fébricule, des courbatures, des adénopathies cervicales postérieures et parfois un purpura du voile du palais. [/INST] 5. Qu"
+884,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les expériences qui ont été faites démontrent donc chez l'enfant l'aptitude au mimétisme phonique mais aussi la capacité d'acquérir non seulement le vocabulaire et la syntaxe, mais aussi la prononciation [/INST] 5:0"
+885,2,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je suis bilingue anglais parce qu'en rentrant à la maison après l'école, au lieu de faire mes devoirs, je regardais des séries américaines en version originale [/INST] 2. Qu"
+886,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il a professé à Padoue des principes d'une philosophie qui sent le fagot, dit-on, et ses nombreuses découvertes dans des sciences dangereuses pourront bien finir par le brouiller tout à fait avec l'Église. [/INST] 5/ Je"
+887,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  A cet égard, il existe de nombreux avantages techniques pour les enfants bretons à apprendre le breton [/INST] 5. Les"
+888,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ainsi, le genre est un déterminant de la santé à considérer en association avec d'autres déterminants sociaux tels que la condition socio-économique, l'âge ou l'appartenance ethnique, dans une perspective d'intersectionnalité pour décrire cette interaction de différentes caractéristiques. [/INST] 5/ Je"
+889,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Un visage humain est projeté sur un masque de plastique et s'adapte à son interlocuteur (rire, larmes, dédain, gêne, neutre.) [/INST] 50 ans"
+890,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  De fait, la nature peut être, par l'homme, changée tout à fait, transformée, ébranlée jusqu'en ses fondements, et c'est pourquoi il sied de réhabiliter le mot de magie, en lui redonnant le sens honorable qu'il avait autrefois et en désignant par là une science justement ambitieuse qui, de la connaissance des formes cachées, déduit des opérations étonnantes. [/INST] 5. La"
+891,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cet amour-propre était en tiers entre Ellénore et moi. [/INST] 5. Qu"
+892,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le nombre insuffisant de professeurs formés est également un frein pour beaucoup d'adversaires de cette mesure, qui la jugent inapplicable. [/INST] 5"
+893,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'est-ce qui peut bien poser problème dans ces petits livrets pourtant plutôt attractifs pour que seuls 23, 4 % de leurs détenteurs arrivent au bout ? [/INST] 5. Qu"
+894,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour les situations qui s'apparentent à de réelles addictions comportementales, un travail sur l'estime de soi est souvent nécessaire. [/INST] 5/5"
+895,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle voulut parler : je lui demandai de m'écouter. [/INST] 5. Je"
+896,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour de multiples raisons, l'éducation s'est focalisée sur la spécialisation. [/INST] 5. Pour"
+897,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Français et mathématiques sont - personne ne s'en étonnera - les deux disciplines les plus révisées durant l'été [/INST] 5. Qu"
+898,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  En province, les centres d'administration laïque ou cléricale, les sièges de parlements groupent des ecclésiastiques et des laïques instruits en nombre considérable, ils copient les salons et créent des centres locaux, lieux d'échange des idées. [/INST] 5. Les"
+899,3,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il s'agit vraiment d'introduire l'informatique dans la culture générale. [/INST] 3:0"
+900,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il avait marché brûlant, imprudent et damné, ses paupières frémissant sur ses épaisses prunelles, noires de la douleur d'une participation qui devait, quatre siècles plus tard, faire de lui une victime lorsqu'il sentit dans sa propre gorge l'écho du cri qui avait couru jadis sur la Piazza Montanara : ""Roba Vecchia !"" - la dégradation au prix de laquelle les siens avaient survécu. [/INST] 5/5"
+901,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les concierges, en manches de chemise, à cheval sur des chaises en paille, fumaient la pipe sous des portes cochères, et les passants allaient d'un pas accablé, le front nu, le chapeau à la main. [/INST] 5. Les"
+902,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Peut-être était-ce l'apaisante influence du cigare dont la bague rouge, ornée d'un somptueux écu gaufré d'or, indiquait sans discrétion le prix. [/INST] 5. Le"
+903,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  D'autres auteurs ont exploité ce terrain comme Erik Orsenna et ses Chevaliers du subjonctif, sorti à l'automne 2004. [/INST] 5. Qu"
+904,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Il dégoise, l'ostrogoth de la téloche formaté au formol, tel un psittacidé déréglé et moche. [/INST] 5. Il"
+905,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le mouvement qui atteint son apogée à Paris entre 1750 et 1765 progresse dans les provinces pour gagner la génération qui précède la Révolution. [/INST] 5. Les"
+906,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les bioessais effectués ont montré que les mêmes symptômes de morbidité sont observés chez les deux espèces et avec les deux métaux. [/INST] 5/ Les"
+907,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le départ de Mlle Swann qui - en m'ôtant la chance terrible de la voir apparaître dans une allée, d'être connu et méprisé par la petite fille privilégiée qui avait Bergotte pour ami et allait avec lui visiter des cathédrales - me rendait la contemplation de Tansonville indifférente la première fois où elle m'était permise, semblait au contraire ajouter à cette propriété, aux yeux de mon grand-père et de mon père, des commodités, un agrément passager, et, comme fait, pour une excursion en pays de montagnes, l'absence de tout nuage, rendre cette journée exceptionnellement propice à une promenade de ce côté ; j'aurais voulu que leurs calculs fussent déjoués, qu'un miracle fît apparaître Mlle Swann avec son père, si près de nous que nous n'aurions pas le temps de l'éviter et serions obligés de faire sa connaissance. [/INST] 5"
+908,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Sa famille, assez illustre en Pologne, avait été ruinée dans les troubles de cette contrée. [/INST] 5. Qu"
+909,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Nous crûmes longtemps que nos ancêtres eurent vécu une vie de rêve. [/INST] 5. Qu"
+910,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le dessein de lui plaire, mettant dans ma vie un nouvel intérêt, animait mon existence d'une manière inusitée. [/INST] 5"
+911,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Entre ceux qui ne jurent que par l'introduction de l'informatique comme un enseignement obligatoire, et ceux qui ont peur que l'on veuille transformer le primaire en une prépa à l'Ecole 42, il existe pourtant des pistes pour initier les enseignants et favoriser un passage du périscolaire au scolaire, sans avoir à attendre une réforme du socle commun qui prendra des années. [/INST] 5. Les"
+912,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les méthodes de la biologie synthétique, qui aboutissent à la création artificielle de systèmes ou de composants biologiques en ajoutant des séquences artificielles d'ADN à un ""châssis"" génétique naturel minimal ou en assemblant des segments d'ADN artificiel pour créer de toutes pièces un système fonctionnel. [/INST] 5/ Je"
+913,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ces derniers auraient engendré des rats mithridatisés, pathologiquement agressifs, dotés d'une formidable force de mâchoire. [/INST] 5. Les"
+914,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Suite à une série de retards, cet employé a été mis à pied pour une durée indertéminée [/INST] 5"
+915,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le mot ""robot"" a été inventé par l'auteur tchèque Karel Capek de la pièce Rossum's Universal Robots (R.U.R), jouée en 1920, et qui mettait en scène des hommes décérébrés prenant la place des ouvriers dans les usines. [/INST] 5"
+916,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le récit s'ordonne par l'accumulation de saynètes, procédé qui donne une tonalité picaresque au parcours, mais qui participe aussi à ancrer les souvenirs d'une mobilité dans des lieux, ne seraient-ils que de passage. [/INST] 5"
+917,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ils avaient trouvé du plaisir à se donner ample carrière, j'en trouvais à les observer et à les décrire ; et ce qu'ils appelaient une perfidie me paraissait un dédommagement tout innocent et très légitime. [/INST] 5. Qu"
+918,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Certains, pourtant, haïssent cette béance dans leur agenda, ce vide, ce temps mort. [/INST] 5. Les"
+919,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  C'est un truisme de dire qu'une économie fonctionnant bien, hautement rationalisée et unifiée, exige un étalon d'échange stable. [/INST] 5. Les"
+920,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La sécheresse que connaît actuellement le France ne résulte pas seulement d'une météorologie défavorable mais découle aussi d'une politique de l'eau TM archaïque [/INST] 5. La"
+921,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'auteur évoque l'insouciance des journées passées avec la panse pleine et sa conviction, acquise dans le monde du vagabondage, que le travail régulier, dégradant, ne fera plus jamais partie de son mode de vie. [/INST] 5"
+922,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Le modele theorique mis en oeuvre ici s'appuie sur l'idee d'un dispositif representatif qui jouerait sur trois niveaux : scenique, scenographique et enonciatif. [/INST] 5
+
+"
+923,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Forcée à admettre que je ne manifestais aucune disposition spéciale, ni talent caché, ma mère finit par conclure, comme tant d'autres mères avant elle, qu'il ne me restait plus qu'une solution: la diplomatie. [/INST] 5"
+924,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  La connexion permanente, notamment aux réseaux sociaux la rassurerait quant à son insertion et lui donnerait alors l'impression qu'elle est un acteur socialement central et important. [/INST] 5"
+925,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Pour mieux maîtriser sonlangage en septembre qu'en juin, l'écrivain YakRivais propose une approche très personnelle quin'en finit pas de séduire. Cet auteur tellement lupour sa Grammaire impertinentepropose aussi.des Jeux pour lire vite(Retz). De quoi faire aimerla grammaire aux plus récalcitrants ! Qui résisteen effet au plaisir de ""schtroumpfer"" son texte, c'est-à-dire d'y remplacer tous les verbes d'actionet les participes passés par le verbe ""schtroump-fer"", correctement accordé, bien sûr ? Qui se refu-serait à trouver le plus rapidement possible le motle plus long d'un petit texte ? Ou à identifier desmots cachés. [/INST] 5/5"
+926,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Serait - ce que la vie semble d'autant plus réelle que toutes les illusions disparaissent, comme la cime des rochers se dessine mieux dans l'horizon lorsque les nuages se dissipent ? [/INST] 5. La"
+927,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les égouts soufflaient par leurs bouches de granit leurs haleines empestées, et les cuisines souterraines jetaient à la rue, par leurs fenêtres basses, les miasmes infâmes des eaux de vaisselle et des vieilles sauces. [/INST] 5. Les"
+928,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mieux valait oublier le mauvais plaisantin qui m'avait posé un lapin. [/INST] 5/5"
+929,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Les grandes puissances étaient collectivement responsables de la paix et du repos de l'Europe; elles se concertaient en permanence pour régler les problèmes, ou au moins pour éviter qu'ils ne débouchent sur une guerre généralisée. [/INST] 5/ Le"
+930,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Par ailleurs, Platon, dans Protagoras, relate l'apparition de la technique, et donc du travail, chez les Hommes dans ""le mythe de Prométhée"" [/INST] 5. Le"
+931,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Utiliser des stoppeurs externes (horloge, messages d'avertissement), parler de ses affects négatifs à des proches, faire de la relaxation, de la méditation, du sport, se rappeler les conséquences négatives d'une consommation excessive (encourager un discours critique, peser le pour et le contre), surfer sur l'envie (la laisser venir, résister et attendre qu'elle passe)., autant de moyens pour essayer d'endiguer ces envies devenues incontrôlables. [/INST] 5. Se"
+932,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Lorsque nous lûmes ce passage émouvant, nous rappelant les jours heureux passés, nous pleurâmes face à nos existances misérables et sans lendemain. [/INST] 5"
+933,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Loin d'une société oisive, il faut continuer à innover et aider les populations qui risquent de voir leur travail disparaître en les formant à d'autres talents. [/INST] 5. Les"
+934,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Jean Buridan, philosophe français du quatorzième siècle, aurait, selon la légende, conçu une expérience imaginaire afin de prouver l'existence du libre arbitre : la situation serait celle d'un animal, en l'occurrence un âne, ayant également faim et soif, et qui, placé à égale distance d'une botte de foin et d'un seau d'eau, hésite, se montre incapable de choisir, et finalement se laisse mourir [/INST] 5. Pour"
+935,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Figurez-vous tous ces pauvres gens, entassés dans un logement insalubre, sous un plafond qui menace de s'effondrer à tout moment [/INST] 5] Les"
+936,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tout cela met l'enfant bretonnant en situation d'avoir, au travers d'une langue assez exotique, un très large éventail de moyens d'expression qui viennent s'ajouter à ceux que le français lui propose [/INST] 5. Les"
+937,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Si l'esprit consiste à se saisir, dans sa propre opposition à soi, nulle période n'est mieux marquée par son avènement que celle du subjectivisme absolu. [/INST] 5. Le"
+938,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je me précipite sur celle terre qui devrait s'entrouvrir pour m'engloutir à jamais ; je pose ma tête sur la pierre froide qui devrait calmer la fièvre ardente qui me dévore. [/INST] 5. Je"
+939,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Duroy s'assit sur un canapé très bas, rouge comme les tentures des murs, et dont les ressorts fatigués, s'enfonçant sous lui, lui donnèrent la sensation de tomber dans un trou [/INST] 5. D"
+940,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cependant, au vu de la grande inertie liée au développement urbain et aux cycles d'aménagement du territoire, cela n'affaiblit pas la validité de l'analyse. [/INST] 5/ Le"
+941,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Qu'est-ce qui peut bien poser problème dans ces petits livrets pourtant plutôt attractifs pour que seuls 23, 4 % de leurs détenteurs arrivent au bout ? [/INST] 50%"
+942,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elle dénoua le ruban qui attachait le manche de la quenouille à son corsage et me tendit la quenouille [/INST] 5. Elle"
+943,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Car sans incertitude nous serions cantonnés à une vie morne, dont la fresque ne serait teinte que de dégradés de gris, en absence complète de couleurs [/INST] 5"
+944,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Gutrie (Petty, 2000) citent les initiatives marquantes prises dans ce domaine par SKANDIA, RAMBOLL et DOW CHEMICALS pour la publication de rapports annuels incluant la notion de capital intellectuel [/INST] 5"
+945,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Se prémunir contre l'altération des données et avoir la certitude qu'elles n'ont pas été modifiées lors de leur stockage ou de leur traitement contribue à la qualité des prises de décisions basées sur celles-ci. [/INST] 5. Les"
+946,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Mus par un cartésianisme extrémiste, les programmes sont concentrés sur la grammaire et l'apprentissage de règles théoriques, et se fondent principalement sur la mémorisation [/INST] 5. Les"
+947,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Tout comme les comportements des animaux sont déterminés par l'instinct, leur environnement ou des déterminations biologiques, les actes et les pensées des hommes le sont eux-mêmes par de multiples facteurs à la fois internes et externes dont on ignore le plus souvent l'existence et la puissance : facteurs d'origine physiologiques, psychologiques, sociales, etc [/INST] 5/ Je"
+948,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Elles le contemplaient toutes les deux, l'approuvant du regard, trouvant qu'il parlait bien et juste, confessant par leur silence ami que leur morale inflexible de Parisiennes n'aurait pas tenu longtemps devant la certitude du secret. [/INST] 5. Qu"
+949,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Auparavant, la duplication de l'ADN se faisait par clonage moléculaire : la séquence d'intérêt était insérée dans le génome d'une bactérie et l'on se servait du taux de croissance élevé du micro-organisme pour obtenir autant de clones de la séquence d'ADN. [/INST] 5. Les"
+950,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  L'homme impoli est le lépreux du monde fashionable. [/INST] 5. L"
+951,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Cette épée brûlante rongeait mes cils et fouillait mes yeux douloureux. [/INST] 5"
+952,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  J'attribuais à son charme cet effet presque magique : j'en aurais joui plus complètement encore sans l'engagement que j'avais pris envers mon amour-propre. [/INST] 5"
+953,3,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je vous saurais gré de bien vouloir me donner votre réponse dans les plus brefs délais [/INST] 3. Je"
+954,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Quand elle s'amusait dans la conversation, ses yeux se tournaient naturellement vers moi. [/INST] 5. Il"
+955,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Je ne savais pas que, bien plus tristement que les petits écarts de régime de son mari, mon manque de volonté, ma santé délicate, l'incertitude qu'ils projetaient sur mon avenir, préoccupaient ma grand'mère au cours de ces déambulations incessantes de l'après-midi et du soir, où on voyait passer et repasser, obliquement levé vers le ciel, son beau visage aux joues brunes et sillonnées, devenues au retour de l'âge presque mauves comme les labours à l'automne, barrées, si elle sortait, par une voilette à demi relevée, et sur lesquelles, amené là par le froid ou quelque triste pensée, était toujours en train de sécher un pleur involontaire. [/INST] 5/5"
+956,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Comme Monsieur, un informaticien fondateur de la librairie des maths, pour qui ""il y a tellement de manières d'aimer les mathématiques [qu'il propose] de nombreux produits plus ou moins littéraires, plus ou moins ludiques"". [/INST] 5) Les"
+957,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Alors qu'au cours du Paléolithique, la diffusion avait fractionné l'écoumène en petits groupes, la tendance depuis la fin de la dernière glaciation est à l'épaississement des relations dans l'Ancien Monde, par augmentation des effectifs et par tissage d'interconnexions. [/INST] 5. Les"
+958,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Ça vous débagoule des raisons, des accusations, des syllogismes, des calomnies, des paroles à rendre fou ! [/INST] 5. Le"
+959,5,5,"[INST] <<SYS>>
+
+<</SYS>>
+
+  Votre amitié me soutenait : sans cette amitié je ne puis vivre. [/INST] 5"
