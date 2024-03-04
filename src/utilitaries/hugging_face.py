@@ -53,7 +53,7 @@ def ft_download_data(data_name: str, pwd: str = None):
 
     # Download CSVs
     snapshot_download(
-        repo_id="OloriBern/FLDE",
+        repo_id="AnonymousPaper/ITS_DATA",
         allow_patterns=[f"{data_name}/*.csv"],
         local_dir=path,
         revision="main",

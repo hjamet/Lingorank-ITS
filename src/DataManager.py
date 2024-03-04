@@ -23,7 +23,7 @@ from huggingface_hub import snapshot_download
 
 class DataManager:
     """This class is responsible for downloading data from the internet.
-    > Data comes from [Github](https://github.com/michalis0/project_johannesDavid2023/tree/main/LingoRank/Data) and has been uploaded on [Kaggle](https://www.kaggle.com/datasets/oloribern/flde-unil).
+    > Data comes from [Github](https://github.com/michalis0/project_johannesDavid2023/tree/main/LingoRank/Data) and has been uploaded on [Kaggle](https://www.kaggle.com/datasets/AnonymousPaper/ITS_DATA-unil).
     """
 
     def __init__(self):
@@ -79,7 +79,7 @@ class DataManager:
                     shutil.rmtree(path_difficulty)
             if not os.path.exists(path_difficulty):
                 snapshot_download(
-                    repo_id="OloriBern/FLDE",
+                    repo_id="AnonymousPaper/ITS_DATA",
                     allow_patterns=["Data/*.csv"],
                     local_dir=os.path.join(self.pwd, "temp"),
                     revision="main",
