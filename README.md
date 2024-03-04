@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code needed to reproduce the experiences of the paper **Difficulty Estimation and Simplification of French Text Using LLMs** submitted to the [ITS 2024] conference (https://iis-international.org/its2024-generative-intelligence-and-its/#). The aim of this paper is to propose a method for estimating the difficulty of French texts and simplifying them using generative language models.
+This repository contains the code needed to reproduce the experiences of the paper **Difficulty Estimation and Simplification of French Text Using LLMs** submitted to the [ITS 2024 conference](https://iis-international.org/its2024-generative-intelligence-and-its/#). The aim of this paper is to propose a method for estimating the difficulty of French texts and simplifying them using generative language models.
 
 ## Installation 🐼
 
@@ -51,7 +51,7 @@ The project is structured as follows:
 └── poetry.lock
 ```
 
-Notebooks are intended to be executed in alphabetical order. Notebooks in the **"difficulty_estimation "** section are to be executed first, then those in the **"topic_classification "** section and finally those in the **"recommendation "** section.
+Notebooks are intended to be executed in alphabetical order. Notebooks in the **difficulty_estimation** section are to be executed first, then those in the **text_simplification** section.
 
 *Note that executing certain notebooks may cause the following folders to appear:*
 ```
